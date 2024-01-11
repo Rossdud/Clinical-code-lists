@@ -1,0 +1,112 @@
+medcodeid	originalreadcode	term	snomedctconceptid	alco
+12878014	E23-1	Alcoholism	66590003	Heavy Drinker
+47085011	136J	Social drinker	28127009	Light Drinker
+73012011	136O	Moderate drinker	43783005	Moderate Drinker
+110629012	E231	Chronic alcoholism	66590003	Heavy Drinker
+144179014	136P	Heavy drinker	86933000	Heavy Drinker
+250312016	1363	Light drinker - 1-2u/day	160575005	Light Drinker
+250313014	1364	Moderate drinker - 3-6u/day	160576006	Moderate Drinker
+250314015	1365	Heavy drinker - 7-9u/day	160577002	Heavy Drinker
+250316018	1366	Very heavy drinker - >9u/day	160578007	Heavy Drinker
+250317010	1367	Stopped drinking alcohol	160579004	Non Drinker
+250321015	136A	Ex-trivial drinker (<1u/day)	160582009	Non Drinker
+250322010	136B	Ex-light drinker - (1-2u/day)	160583004	Non Drinker
+250323017	136C	Ex-moderate drinker - (3-6u/d)	160584005	Non Drinker
+250324011	136D	Ex-heavy drinker - (7-9u/day)	160585006	Non Drinker
+250329018	136E	Ex-very heavy drinker-(>9u/d)	160587003	Non Drinker
+250335018	136K	Alcohol intake above recommended sensible limits	160592001	Heavy Drinker
+250340014	136L	Alcohol intake within recommended sensible limits	160593006	Moderate Drinker
+251626014	1462	H/O: alcoholism	161466001	Moderate Drinker
+291352018	1361-2	Non-drinker alcohol	105542008	Non Drinker
+294669014	E013	Alcohol withdrawal hallucinosis	191476005	Heavy Drinker
+294670010	E014-1	Drunkenness - pathological	191477001	Heavy Drinker
+295136019	E2310	Alcohol dependence	66590003	Heavy Drinker
+295139014	E2311	Continuous chronic alcoholism	191811004	Heavy Drinker
+295141010	E2312	Episodic chronic alcoholism	191812006	Heavy Drinker
+295142015	E2313	Chronic alcoholism in remission	191813001	Heavy Drinker
+295143013	E231z	Chronic alcoholism NOS	66590003	Heavy Drinker
+295251015	E2500	Nondependent alcohol abuse, unspecified	268645007	Heavy Drinker
+295252010	E2501	Nondependent alcohol abuse, continuous	191882002	Heavy Drinker
+295253017	E2502	Nondependent alcohol abuse, episodic	191883007	Heavy Drinker
+295254011	E2503	Nondependent alcohol abuse in remission	191884001	Heavy Drinker
+295255012	E250z	Nondependent alcohol abuse NOS	268645007	Heavy Drinker
+342320016	136N	Light drinker	228277002	Light Drinker
+342322012	136Q	Very heavy drinker	228279004	Heavy Drinker
+342361016	136Y	Drinks in morning to get rid of hangover	228310006	Heavy Drinker
+342366014	136R	Binge drinker	228315001	Heavy Drinker
+346931015	E250-1	Drunkenness	25702006	Heavy Drinker
+353698013	J6710	Alcohol-induced chronic pancreatitis	235952002	Heavy Drinker
+397729013	1362	Trivial drinker - <1u/day	266917007	Light Drinker
+401797010	E250	Nondependent alcohol abuse	268645007	Heavy Drinker
+502017010	E23-2	Alcohol problem drinking	7200002	Heavy Drinker
+1221271018	136	Alcohol consumption	160573003	Moderate Drinker
+2474678017	66e	Alcohol disorder monitoring	413130000	Heavy Drinker
+217461000000118	136M	Non - drinker	105542008	Non Drinker
+299061000000117	136S	Hazardous alcohol use	198421000000108	Heavy Drinker
+299081000000114	136T	Harmful alcohol use	198431000000105	Heavy Drinker
+371501000000110	7P221	Delivery of rehabilitation for alcohol addiction	231161000000109	Heavy Drinker
+397881000006114	Eu101	Alcohol abuse	15167005	Heavy Drinker
+405461000000114	66e0	Alcohol abuse monitoring	247721000000109	Heavy Drinker
+476411000006118	136Z	Alcohol consumption NOS	160573003	Moderate Drinker
+476501000006115	EGTON418	Alcohol intake	476501000006104	Heavy Drinker
+587231000006111	1361-1	Non drinker alcohol	105542008	Non Drinker
+606991000000117	136W	Alcohol misuse	15167005	Heavy Drinker
+629811000006113	1362-2	Occasional drinker	228276006	Light Drinker
+629821000006117	1362-1	Drinks rarely	266917007	Light Drinker
+855071000006115	EGTONGR6	Grade A none drinker or rare	855071000006104	Non Drinker
+882531000006110	E250-99	Non-dependent abuse of alcohol	268645007	Heavy Drinker
+940781000006116	HMPNQEV1	Evidence of alcohol withdrawal	940781000006100	Heavy Drinker
+961571000006111	EMISCAB16	Excessive use of alcohol	961571000006107	Heavy Drinker
+970391000006118	EMISNQND25	Substance misuse of Alcohol	970391000006102	Heavy Drinker
+970401000006116	EMISNQMI149	Misuse of mixture of Alcohol	970401000006100	Heavy Drinker
+970411000006118	EMISNQMI150	Misuse of Alcohol unspecified	970411000006102	Heavy Drinker
+1983961000006111	EMISNQMA118	Manchester triage - Apparently drunk	1983961000006107	Heavy Drinker
+2502061000006114	^ESCTCU250206	Current drinker	219006	Moderate Drinker
+2502071000006119	^ESCTAL250207	Alcohol user	219006	Heavy Drinker
+2502081000006116	^ESCTDR250208	Drinks alcohol	219006	Moderate Drinker
+2502091000006118	^ESCTCU250209	Current drinker of alcohol	219006	Moderate Drinker
+2614651000006115	^ESCTAL261465	Alcoholism	7200002	Heavy Drinker
+2740361000006119	^ESCTAA274036	AA - Alcohol abuse	15167005	Heavy Drinker
+2740831000000114	^ESCT1172280	Harmful use of alcohol	1094151000000108	Heavy Drinker
+2911301000006110	^ESCTDR291130	Drunk	25702006	Heavy Drinker
+3843491000006118	^ESCTEX384349	Ex-drinker	82581004	Non Drinker
+3913321000006111	^ESCTDR391332	Drinks heavily	86933000	Heavy Drinker
+4120341000006116	^ESCTNE412034	Never drinks	105542008	Non Drinker
+4120351000006119	^ESCTDO412035	Does not drink alcohol	105542008	Non Drinker
+4120371000006112	^ESCTNO412037	Non - drinker alcohol	105542008	Non Drinker
+4120381000006110	^ESCTCU412038	Current non-drinker of alcohol	105542008	Non Drinker
+4120391000006113	^ESCTNO412039	Non-drinker for personal reasons	105543003	Non Drinker
+4533141000006118	^ESCTAL453314	Alcohol intake	160573003	Heavy Drinker
+4533151000006116	^ESCTAI453315	AI - Alcohol intake	160573003	Heavy Drinker
+4533171000006114	^ESCTET453317	ETOH - Alcohol intake	160573003	Heavy Drinker
+4533231000006117	^ESCTVE453323	Very heavy drinker - greater than 9 units/day	160578007	Heavy Drinker
+4533431000006118	^ESCTEX453343	Excessive ethanol consumption	160592001	Heavy Drinker
+4533441000006111	^ESCTXS453344	XS - Excessive alcohol consumption	160592001	Heavy Drinker
+4533451000006113	^ESCTEX453345	Excessive alcohol consumption	160592001	Heavy Drinker
+4533461000006110	^ESCTEX453346	Excessive alcohol use	160592001	Heavy Drinker
+4951321000006115	^ESCTAL495132	Alcohol-free diet	226138001	Non Drinker
+4977971000006112	^ESCTDR497797	Drinks on special occasions	228276006	Light Drinker
+4977991000006113	^ESCTFA497799	Fairly heavy drinker	228278007	Heavy Drinker
+4978031000006111	^ESCTPR497803	Problem drinker	228281002	Heavy Drinker
+4978061000006119	^ESCTDE497806	Dependent drinker	228281002	Heavy Drinker
+4978281000006117	^ESCTDR497828	Drinks in company	228298002	Moderate Drinker
+4978321000006111	^ESCTDR497832	Drinks with friends	228302005	Moderate Drinker
+4978431000006119	^ESCTWE497843	Weekend drinker	228314002	Moderate Drinker
+4978461000006111	^ESCTEP497846	Episodic drinker	228315001	Light Drinker
+4978491000006115	^ESCTDA497849	Daily drinker	228319007	Moderate Drinker
+4978501000006111	^ESCTDR497850	Drinks alcohol daily	228319007	Moderate Drinker
+4978511000006114	^ESCTHA497851	Habitual drinker	228320001	Heavy Drinker
+4978541000006113	^ESCTDR497854	Drinking bout	228323004	Heavy Drinker
+4978561000006112	^ESCTHE497856	Heavy drinking session	228325006	Heavy Drinker
+4978571000006117	^ESCTDR497857	Drinking binge	228326007	Heavy Drinker
+4978581000006119	^ESCTAL497858	Alcohol binge	228326007	Heavy Drinker
+4978591000006116	^ESCTBI497859	Binge drinking	228326007	Heavy Drinker
+4978601000006112	^ESCTDR497860	Drinking day	228327003	Moderate Drinker
+5689771000006115	^ESCTPE568977	Persistent alcohol abuse	284591009	Heavy Drinker
+5689781000006117	^ESCTCH568978	Chronic alcohol abuse	284591009	Heavy Drinker
+7706231000006114	^ESCTMI770623	Mild alcohol dependence	713583005	Moderate Drinker
+7710581000006113	^ESCTSE771058	Severe alcohol dependence	713862009	Heavy Drinker
+7725141000006111	^ESCTMO772514	Moderate alcohol dependence	714829008	Moderate Drinker
+8088751000006117	^ESCTAL808875	Alcohol dependence with alcohol induced disorder	288031000119105	Heavy Drinker
+9344021000006112	^ESCTUN934402	Unhealthy alcohol drinking behaviour	10939881000119105	Heavy Drinker
+12112021000006111	^ESCT1211202	Management of alcohol intake	440671000124106	Heavy Drinker

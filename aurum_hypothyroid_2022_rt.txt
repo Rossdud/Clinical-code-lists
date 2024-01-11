@@ -1,0 +1,60 @@
+medcodeid	originalreadcode	term	snomedctconceptid	hypothy
+68268011	C04-3	Hypothyroidism	40930008	hypothy
+91116012	C047	Subclinical hypothyroidism	54823002	hypothy
+178809013	C04	Acquired hypothyroidism	111566002	hypothy
+292373016	C03	Congenital hypothyroidism	190268003	hypothy
+292376012	C03y	Other specified congenital hypothyroidism	190268003	hypothy
+292394018	C041	Other postablative hypothyroidism	237527007	hypothy
+292395017	C0410	Irradiation hypothyroidism	190277005	hypothy
+292396016	C041z	Postablative hypothyroidism NOS	237527007	hypothy
+292397013	C042	Iodine hypothyroidism	190279008	hypothy
+292400016	C043	Iatrogenic hypothyroidism	88273006	hypothy
+292401017	C0430	Hypothyroidism resulting from para-aminosalicylic acid	190282003	hypothy
+292402012	C0431	Hypothyroidism resulting from phenylbutazone	190283008	hypothy
+292403019	C0432	Hypothyroidism resulting from resorcinol	190284002	hypothy
+292404013	C043z	Iatrogenic hypothyroidism NOS	88273006	hypothy
+292408011	C04y	Other acquired hypothyroidism	111566002	hypothy
+316625012	Q4337	Neonatal jaundice with congenital hypothyroidism	206457007	hypothy
+355957018	C03y1	Congenital hypothyroidism without goitre	237515009	hypothy
+355961012	C04z-3	Hypothyroid goitre, acquired	237518006	hypothy
+398783013	C03z	Congenital hypothyroidism NOS	190268003	hypothy
+398784019	C04z	Hypothyroidism NOS	40930008	hypothy
+415432015	C03y0	Congenital hypothyroidism with diffuse goitre	278503003	hypothy
+2536050019	C040	Post-surgical hypothyroidism	27059002	hypothy
+2693005013	1JM0	Suspected congenital hypothyroidism	428300000	hypothy
+123651000006111	C0A5	Subclinical iodine deficiency hypothyroidism	237567008	hypothy
+208391000006113	C04z-1	Pretibial myxoedema - hypothyroid	40930008	hypothy
+211321000006115	C044	Postinfectious hypothyroidism	237528002	hypothy
+216181000006112	C040-1	Postablative hypothyroidism	237527007	hypothy
+413721000006119	Cyu11	[X]Other sp cified hypothyroidism	40930008	hypothy
+881381000006114	C04-99	Hypothyroidism-congen.+ acqui.	111566002	hypothy
+881391000006112	C04y-99	Acquired hypothyroidism NOS	654491000000108	hypothy
+933261000006110	C04z-99	Subclinical hypothyroidism	681051000000104	hypothy
+988821000006117	C04-98	Subclinical hypothyroidism	111566002	hypothy
+988831000006119	C04-97	Acquired hypothyroidism NOS	111566002	hypothy
+1539151000006110	EMISNQSE16	Secondary hypothyroidism	1539151000006106	hypothy
+1707531000000116	1JM	Suspected hypothyroidism	473124003	hypothy
+1757291000006118	EMISNQSU29	Suspected hypothyroidism	1757291000006102	hypothy
+1823931000006116	EMISNQHY13	Hypothyroidism confirmed	1823931000006100	hypothy
+1874471000006114	EMISNQNE83	Newborn blood spot outcome status (congenital hypothyroidism)	1874471000006105	hypothy
+2933321000006112	^ESCTPO293332	Postoperative hypothyroidism	27059002	hypothy
+2933341000006117	^ESCTPO293334	Postsurgical hypothyroidism	27059002	hypothy
+3152641000006114	^ESCTHY315264	Hypothyroidism following radioiodine therapy	40539002	hypothy
+3152651000006111	^ESCTRA315265	Radioactive iodine-induced hypothyroidism	40539002	hypothy
+3159171000006117	^ESCTHY315917	Hypothyroid	40930008	hypothy
+3843671000006116	^ESCTSE384367	Secondary hypothyroidism	82598004	hypothy
+4197341000006114	^ESCTPR419734	Primary hypothyroidism	111566002	hypothy
+5108351000006116	^ESCTAU510835	Autoimmune hypothyroidism	237519003	hypothy
+5108381000006112	^ESCTHY510838	Hypothyroidism with positive thyroid antibodies	237519003	hypothy
+5108391000006110	^ESCTHY510839	Hypothyroidism due to Hashimoto's thyroiditis	237520009	hypothy
+5108401000006112	^ESCTHY510840	Hypothyroidism due to Hashimoto thyroiditis	237520009	hypothy
+5108411000006110	^ESCTHY510841	Hypothyroidism due to TSH receptor blocking antibody	237521008	hypothy
+5108431000006116	^ESCTBO510843	Borderline hypothyroidism	237522001	hypothy
+5108441000006114	^ESCTCO510844	Compensated hypothyroidism	237523006	hypothy
+5108491000006117	^ESCTPO510849	Post-infectious hypothyroidism	237528002	hypothy
+5254181000006112	^ESCTHY525418	Hypothyroid facies	248205002	hypothy
+5587171000006118	^ESCTTR558717	Transient neonatal hypothyroidism	276566003	hypothy
+5721011000006111	^ESCTHY572101	Hypothyroidism - congenital and acquired	286910004	hypothy
+7084321000006110	^ESCTHY708432	Hypothyroidism in pregnancy	428165003	hypothy
+7086361000006111	^ESCTSU708636	Suspected congenital hypothyroidism (CHT)	428300000	hypothy
+7776171000006111	^ESCTCO777617	Congenital hypothyroidism due to absence of thyroid gland	718690009	hypothy

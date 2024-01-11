@@ -1,0 +1,118 @@
+medcodeid	originalreadcode	term	snomedctconceptid	dep
+138421012	E135	Agitated depression	83458005	depression
+294825017	E1121	Mild major depression, single episode	79298009	depression
+294826016	E1122	Moderate major depression, single episode	15639000	depression
+294831019	E1126	Single episode of major depression in full remission	19527009	depression
+294843018	E1136	Recurrent major depression in full remission	46244001	depression
+294844012	E1137	Recurrent depression	191616006	depression
+294918011	E130-1	Psychotic reactive depression	191676002	depression
+295536013	E2B0	Postviral depression	192079006	depression
+295537016	E2B1	Chronic depression	192080009	depression
+296137015	Eu320	Mild depression	310495003	depression
+346972018	E112-3	Endogenous depression first episode	231499006	depression
+346973011	E11z2	Masked depression	231500002	depression
+401766011	E112	Major depression, single episode	36923009	depression
+410861011	E113-1	Endogenous depression - recurrent	274948002	depression
+441826016	E112-4	Endogenous depression	300706003	depression
+1222477019	R007z-3	[D]Postoperative depression	82218004	depression
+1231868010	62T1	Puerperal depression	58703003	depression
+1488626018	1B1U	Symptoms of depression	394924000	depression
+142521000006110	E1125	Major depression single episode, in partial remission	70747007	depression
+142541000006115	E1123	Severe major depression, single episode	251000119105	depression
+213641000000111	Eu324	[X]Mild depression	310495003	depression
+223651000000118	E204-1	Postpartum depression	58703003	depression
+223741000000112	Eu322-2	Severe depression	310497006	depression
+294621000000118	212S	Depression resolved	196381000000100	depression
+359121000006116	Eu32z-4	Reactive depression	87414006	depression
+366561000006119	Eu32y-1	[X]Atypical depression	191659001	depression
+376691000006116	Eu32z-1	Depression	35489007	depression
+379431000006113	Eu341	Dysthymia	78667006	depression
+379771000006116	Eu333-1	[X]Endogenous depression with psychotic symptoms	73867007	depression
+379781000006118	Eu332-1	[X]Endogenous depression without psychotic symptoms	300706003	depression
+396081000006116	Eu332-2	[X]Major depression, recurrent without psychotic symptoms	268621008	depression
+398351000006110	Eu412-1	[X]Mild anxiety depression	231504006	depression
+398841000006119	Eu33z-1	[X]Monopolar depression NOS	35489007	depression
+419841000006116	Eu341-4	[X]Persistant anxiety depression	231504006	depression
+423041000006119	Eu204	[X]Post-schizophrenic depression	231485007	depression
+423131000006113	Eu530-1	[X]Postnatal depression NOS	58703003	depression
+423141000006115	Eu530-2	[X]Postpartum depression NOS	58703003	depression
+423611000006111	Eu32z-3	[X]Prolonged single episode of reactive depression	87414006	depression
+424541000006111	Eu333-3	[X]Recurr severe episodes/major depression+psychotic symptom	28475009	depression
+424641000006112	Eu33-2	[X]Recurrent episodes of psychogenic depression	191616006	depression
+424651000006114	Eu33-3	[X]Recurrent episodes of reactive depression	191616006	depression
+424671000006116	Eu333-5	[X]Recurrent severe episodes of psychotic depression	191613003	depression
+425411000006110	Eu33-5	SAD - Seasonal affective disorder	247803002	depression
+426891000006114	Eu322-1	[X] Single episode agitated depression without psychotic symptoms	310497006	depression
+426921000006115	Eu323-1	[X]Single episode of major depression and psychotic symptoms	191604000	depression
+426931000006117	Eu32y-2	[X]Single episode of masked depression NOS	231500002	depression
+426941000006110	Eu32-2	[X]Single episode of psychogenic depression	87414006	depression
+426961000006114	Eu323-3	[X]Single episode of psychotic depression	191604000	depression
+426971000006119	Eu32-3	[X]Single episode of reactive depression	87414006	depression
+426991000006118	Eu322-3	[X]Single episode vital depression w'out psychotic symptoms	310497006	depression
+432511000006119	Eu332-4	[X]Vital depression, recurrent without psychotic symptoms	310497006	depression
+474171000006112	E112-1	Agitated depression	83458005	depression
+642461000006116	E112-2	Endogenous depression first episode	231499006	depression
+675861000006113	E204	Reactive depression (situational)	87414006	depression
+853871000006111	EGTON306	Post natal depression	853871000006107	depression
+882401000006115	E204-99	Reactive (neurotic) depression	87414006	depression
+882671000006112	E2B-98	Depression	609311000000100	depression
+882681000006110	E2B-99	Depression NOS	609311000000100	depression
+882811000006119	Eu320-99	Mild depression	430421000000104	depression
+882821000006110	Eu321-99	Moderate depression	465441000000108	depression
+882831000006113	Eu322-99	Severe depression	397701000000102	depression
+908731000006114	HNG0531	[RFC] Postnatal depression	908731000006105	depression
+909681000006110	HNGNQRF13	[RFC] Depression	909681000006106	depression
+959741000006117	EMISCSA2	Sadness/hopelessness/decreased self-esteem	959741000006101	depression
+983861000006115	1BT-2	Sad mood	366979004	depression
+1650771000000113	1JJ	Suspected depression	473126001	depression
+1715181000006114	Eu326	Moderate major depression	832007	depression
+1715191000006112	Eu328	Severe major depression with psychotic features	73867007	depression
+1715771000006112	Eu325	Mild major depression	87512008	depression
+1715781000006110	Eu327	Severe major depression without psychotic features	75084000	depression
+1785881000006119	Eu32B	Antenatal depression	790961000000101	depression
+1823881000006110	EMISNQDE36	Depression confirmed	1823881000006106	depression
+1975191000006114	EMISICD10|F2040	Post-schizophrenic depression, continuous	1975191000006105	depression
+1975211000006110	EMISICD10|F2041	Post-schizophrenic depression, episodic with progressive deficit	1975211000006106	depression
+1975231000006116	EMISICD10|F2042	Post-schizophrenic depression, episodic with stable deficit	1975231000006100	depression
+1975261000006113	EMISICD10|F2043	Post-schizophrenic depression, episodic remittent	1975261000006109	depression
+1975281000006115	EMISICD10|F2044	Post-schizophrenic depression, incomplete remission	1975281000006104	depression
+1975301000006116	EMISICD10|F2045	Post-schizophrenic depression, complete remission	1975301000006100	depression
+1975321000006114	EMISICD10|F2049	Post-schizophrenic depression, course uncertain, period of observation too short	1975321000006105	depression
+2620391000000111	12K8	Maternal postnatal depression	1038261000000100	depression
+2659601000000116	ESCTSI25	Signposting to depression self-help group	1057351000000106	depression
+2729751000000118	^ESCT1171772	Recurrent depression with current severe episode and psychotic features	1089511000000100	depression
+2729991000000112	^ESCT1171782	Recurrent depression with current severe episode without psychotic features	1089631000000109	depression
+2730011000000110	^ESCT1171783	Recurrent depression with current moderate episode	1089641000000100	depression
+2798691000006112	^ESCTMO279869	Moderate recurrent major depression	18818009	depression
+2957311000006113	^ESCTSE295731	Severe recurrent major depression with psychotic features	28475009	depression
+3033261000006113	^ESCTRE303326	Recurrent major depression in partial remission	33135002	depression
+3087971000006112	^ESCTSE308797	Severe recurrent major depression without psychotic features	36474008	depression
+3149661000006117	^ESCTMI314966	Mild recurrent major depression	40379007	depression
+3190221000006112	^ESCTMA319022	Major depression in remission	42810003	depression
+3531371000006112	^ESCTMA353137	Major depression in complete remission	63412003	depression
+3578851000006118	^ESCTRE357885	Recurrent major depression	66344007	depression
+3606411000006115	^ESCTRE360641	Recurrent major depression in remission	68019004	depression
+3700911000006115	^ESCTPS370091	Psychotic depression	73867007	depression
+3743451000006110	^ESCTSE374345	Severe major depression, single episode, without psychotic features	76441001	depression
+3767531000006119	^ESCTSE376753	Severe major depression, single episode, with psychotic features, mood-congruent	77911002	depression
+3837121000006116	^ESCTPO383712	Postoperative depression	82218004	depression
+5023901000006110	^ESCTPO502390	Post-schizophrenic depression	231485007	depression
+5024071000006118	^ESCTAN502407	Anxiety depression	231504006	depression
+5106051000006119	^ESCTMI510605	Mild postnatal depression	237349002	depression
+5106061000006117	^ESCTSE510606	Severe postnatal depression	237350002	depression
+5248911000006110	^ESCTDE524891	Depression worse in morning	247801000	depression
+5248931000006116	^ESCTDE524893	Depression worse later in day	247802007	depression
+5359011000006112	^ESCTDE535901	Depression - motion	255339005	depression
+5359021000006116	^ESCTDE535902	Depression	255339005	depression
+6000711000006112	^ESCTMO600071	Moderate depression	310496002	depression
+6337501000006112	^ESCTMA633750	Major depression	370143000	depression
+6947121000006117	^ESCTFE694712	Feeling sad	420038007	depression
+7127651000006115	^ESCTSE712765	Severe major depression, single episode, with psychotic features	430852001	depression
+7788661000006119	^ESCTMO778866	Moderately severe depression	719593009	depression
+7803711000006118	^ESCTMO780371	Moderately severe major depression single episode	720453001	depression
+7803731000006112	^ESCTMI780373	Minimal major depression single episode	720454007	depression
+7965191000006118	^ESCTSE796519	Severe recurrent major depression	281000119103	depression
+7991681000006114	^ESCTPE799168	Perinatal depression	10211000132109	depression
+8465321000006112	^ESCTRE846532	Reactive depression, prolonged single episode	1086661000000108	depression
+13902421000006110	^ESCT1390242	Antenatal depression	788120007	depression
+13962531000006113	^ESCT1396253	Follow up for depression	870191006	depression

@@ -1,0 +1,34 @@
+medcodeid	originalreadcode	term	snomedctconceptid	sbp
+93494011	G202	Systolic hypertension	56218007	Systolic blood pressure
+458803012	246l	Average systolic blood pressure	314440001	Systolic blood pressure
+458808015	246b	Average night interval systolic blood pressure	314445006	Systolic blood pressure
+458809011	246Y	Average day interval systolic blood pressure	314446007	Systolic blood pressure
+458812014	246W	Average 24 hour systolic blood pressure	314449000	Systolic blood pressure
+1780182014	246N	Standing systolic blood pressure	400974009	Systolic blood pressure
+2159155011	246Q	Sitting systolic blood pressure	407554009	Systolic blood pressure
+2159157015	246S	Lying systolic blood pressure	407556006	Systolic blood pressure
+2533615017	246d	Average home systolic blood pressure	413606001	Systolic blood pressure
+114311000006111	2469	Systolic arterial pressure	72313002	Systolic blood pressure
+125251000006114	EGTON415	Standing Systolic Bp	125251000006105	Systolic blood pressure
+298281000000114	246e	Ambulatory systolic blood pressure	198081000000101	Systolic blood pressure
+1760931000000113	58583	Highest brachial systolic pressure	787541000000108	Systolic blood pressure
+1808011000006111	EMISNQSY8	Systolic blood pressure - left arm	1808011000006107	Systolic blood pressure
+1808041000006110	EMISNQSY9	Systolic blood pressure - right arm	1808041000006106	Systolic blood pressure
+1916581000006119	EMISNQHI42	Highest ankle systolic pressure	1916581000006103	Systolic blood pressure
+1994021000006115	EMISNQHO139	Home systolic blood pressure	1994021000006104	Systolic blood pressure
+2418961000000111	246n1	Baseline systolic blood pressure	716579001	Systolic blood pressure
+2616361000000114	246o0	Non-invasive central systolic blood pressure	1036551000000101	Systolic blood pressure
+2705391000006113	^ESCTNO270539	Normal systolic arterial pressure	12929001	Systolic blood pressure
+2705401000006110	^ESCTNO270540	Normal systolic blood pressure	12929001	Systolic blood pressure
+2786481000006111	^ESCTIN278648	Increased systolic arterial pressure	18050000	Systolic blood pressure
+3676271000006117	^ESCTSY367627	Systolic blood pressure	72313002	Systolic blood pressure
+4201871000006115	^ESCTSY420187	Systolic	111973004	Systolic blood pressure
+5295021000006119	^ESCTNO529502	Non-invasive systolic arterial pressure	251070002	Systolic blood pressure
+5527191000006114	^ESCTSY552719	Systolic blood pressure	271649006	Systolic blood pressure
+6046051000006119	^ESCTMI604605	Minimum systolic blood pressure	314438006	Systolic blood pressure
+6046061000006117	^ESCTMA604606	Maximum systolic blood pressure	314439003	Systolic blood pressure
+6046141000006117	^ESCTMI604614	Minimum 24 hour systolic blood pressure	314447003	Systolic blood pressure
+6046151000006115	^ESCTMA604615	Maximum 24 hour systolic blood pressure	314448008	Systolic blood pressure
+6046311000006118	^ESCT24604631	24 hour systolic blood pressure	314464000	Systolic blood pressure
+7103581000006114	^ESCTSY710358	Systolic essential hypertension	429457004	Systolic blood pressure
+11903371000006115	^ESCT1190337	O/E - Systolic BP reading	163030003	Systolic blood pressure

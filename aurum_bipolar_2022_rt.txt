@@ -1,0 +1,76 @@
+medcodeid	originalreadcode	term	snomedctconceptid	bipol
+294848010	E1140	Bipolar affective disorder, currently manic, unspecified	191618007	bipolar
+294849019	E1141	Bipolar affective disorder, currently manic, mild	191620005	bipolar
+294850019	E1142	Bipolar affective disorder, currently manic, moderate	191621009	bipolar
+294858014	E114z	Bipolar affective disorder, currently manic, NOS	191618007	bipolar
+294861010	E1150	Bipolar affective disorder, currently depressed, unspecified	191627008	bipolar
+294862015	E1151	Bipolar affective disorder, currently depressed, mild	191629006	bipolar
+294863013	E1152	Bipolar affective disorder, currently depressed, moderate	191630001	bipolar
+294868016	E115z	Bipolar affective disorder, currently depressed, NOS	191627008	bipolar
+294869012	E116	Mixed bipolar affective disorder	191636007	bipolar
+294870013	E1160	Mixed bipolar affective disorder, unspecified	191636007	bipolar
+294871012	E1161	Mixed bipolar affective disorder, mild	191638008	bipolar
+294872017	E1162	Mixed bipolar affective disorder, moderate	191639000	bipolar
+294874016	E1164	Mixed bipolar affective disorder, severe, with psychosis	191641004	bipolar
+294876019	E1166	Mixed bipolar affective disorder, in full remission	191643001	bipolar
+294877011	E116z	Mixed bipolar affective disorder, NOS	191636007	bipolar
+294880012	E117	Unspecified bipolar affective disorder	13746004	bipolar
+294881011	E1170	Unspecified bipolar affective disorder, unspecified	13746004	bipolar
+294882016	E1171	Mild bipolar disorder	13313007	bipolar
+294883014	E1172	Moderate bipolar disorder	79584002	bipolar
+294887010	E1176	Bipolar disorder in full remission	41836007	bipolar
+294888017	E117z	Unspecified bipolar affective disorder, NOS	13746004	bipolar
+294895014	E11y3	Mixed bipolar I disorder	16506000	bipolar
+296130018	Eu317	Bipolar disorder in remission	85248005	bipolar
+296135011	Eu31z	[X]Bipolar affective disorder, unspecified	13746004	bipolar
+401865016	Eu31y	[X]Other bipolar affective disorders	13746004	bipolar
+82091000006116	E1175	Bipolar disorder in partial remission	5703000	bipolar
+82151000006114	E1173	Severe bipolar disorder without psychotic features	53049002	bipolar
+82171000006116	E1174	Severe bipolar disorder with psychotic features	4441000	bipolar
+367051000006112	Eu314	Severe depressed bipolar I disorder without psychotic features	61403008	bipolar
+367061000006114	Eu315	Psychosis and severe depression co-occurrent and due to bipolar affective disorder	765176007	bipolar
+367071000006119	Eu312	Bipolar affective disorder, currently manic, severe, with psychosis	191623007	bipolar
+367081000006116	Eu311	[X]Bipolar affect disorder cur epi manic wout psychotic symp	191618007	bipolar
+367091000006118	Eu313	[X]Bipolar affect disorder cur epi mild or moderate depressn	191630001	bipolar
+367101000006112	Eu31	Bipolar affective disorder	13746004	bipolar
+367111000006110	Eu310	Bipolar affective disorder, current episode hypomanic	31446002	bipolar
+367121000006119	Eu316	[X]Bipolar affective disorder, current episode mixed	192362008	bipolar
+367151000006111	Eu30-1	[X]Bipolar disorder, single manic episode	268619003	bipolar
+367161000006113	Eu31y-1	[X]Bipolar II disorder	83225003	bipolar
+398541000006116	Eu3y0-1	Bipolar affective disorder , current episode mixed	192362008	bipolar
+492761000000114	212V	Bipolar affective disorder resolved	285491000000101	bipolar
+513691000006116	E1143	Severe manic bipolar I disorder without psychotic features	162004	bipolar
+513701000006116	E1144	Bipolar affect disord, currently manic,severe with psychosis	191623007	bipolar
+513711000006118	E1155	Depressed bipolar I disorder in partial remission	49512000	bipolar
+513721000006114	E1154	Bipolar affect disord, now depressed, severe with psychosis	765176007	bipolar
+513731000006112	E1153	Bipolar affect disord, now depressed, severe, no psychosis	61403008	bipolar
+513741000006119	E1145	Manic bipolar I disorder in partial remission	63249007	bipolar
+513751000006117	E115	Bipolar affective disorder, current episode depression	191627008	bipolar
+513801000006112	E114	Bipolar affective disorder, current episode manic	191618007	bipolar
+513811000006110	E1146	Bipolar affective disorder, currently manic, in full remission	191625000	bipolar
+513861000006113	E1156	Bipolar affective disorder, currently depressed, in full remission	191634005	bipolar
+513871000006118	E11-1	Bipolar disorder	13746004	bipolar
+701051000006118	E1165	Mixed bipolar affective disorder, partial/unspec remission	760721000000109	bipolar
+701071000006111	E1163	Mixed bipolar affective disorder, severe	764591000000108	bipolar
+996171000006114	212T	Psychosis, schizophrenia and bipolar affective disorder resolved	200951000000109	bipolar
+1785851000006110	Eu318	Bipolar I disorder	371596008	bipolar
+1785861000006112	Eu319	Bipolar II disorder	83225003	bipolar
+1785871000006117	Eu319-1	[X]Bipolar II disorder	83225003	bipolar
+1972101000006111	EMISICD10|F0631	Organic bipolar affective disorder	1972101000006107	bipolar
+1975931000006113	EMISICD10|F3130	Bipolar affect disorder cur epi mild or moderate depressn, without somatic syndrome	1975931000006109	bipolar
+1975941000006115	EMISICD10|F3131	Bipolar affect disorder cur epi mild or moderate depressn, with somatic syndrome	1975941000006104	bipolar
+3006671000006118	^ESCTBI300667	Bipolar I disorder, most recent episode hypomanic	31446002	bipolar
+3118041000006112	^ESCTSC311804	Schizoaffective disorder, bipolar type	38368003	bipolar
+3854401000006113	^ESCTBI385440	Bipolar 2 disorder	83225003	bipolar
+3886291000006119	^ESCTBI388629	Bipolar disorder, in remission	85248005	bipolar
+4767311000006117	^ESCTBI476731	Bipolar affective disorder, current episode mixed	192362008	bipolar
+5023451000006115	^ESCTOR502345	Organic bipolar disorder	231444002	bipolar
+5435901000006117	^ESCTBI543590	Bipolar	260994008	bipolar
+5933701000006116	^ESCTPR593370	Profile of mood states, bipolar	304757008	bipolar
+6891981000006111	^ESCTRE689198	Referral for bipolar disorder	416422002	bipolar
+7849081000006116	^ESCTBI784908	Bipolar type I disorder currently in full remission	723903001	bipolar
+8041781000006111	^ESCTRA804178	Rapid cycling bipolar I disorder	133091000119105	bipolar
+8235161000006110	^ESCTMI823516	Mixed bipolar affective disorder, in partial remission	760721000000109	bipolar
+12059201000006117	^ESCT1205920	Bipolar disorder, most recent episode depression	767631007	bipolar
+12059211000006119	^ESCT1205921	Bipolar disorder, most recent episode manic	767632000	bipolar
+13911951000006118	^ESCT1391195	Rapid cycling bipolar II disorder	789061003	bipolar

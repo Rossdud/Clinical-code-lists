@@ -1,0 +1,22 @@
+medcodeid	originalreadcode	term	snomedctconceptid	dbp
+458816012	246m	Average diastolic blood pressure	314453003	Diastolic blood pressure
+458823013	246a	Average night interval diastolic blood pressure	314460009	Diastolic blood pressure
+458824019	246X	Average day interval diastolic blood pressure	314461008	Diastolic blood pressure
+458825018	246V	Average 24 hour diastolic blood pressure	314462001	Diastolic blood pressure
+1780183016	246P	Standing diastolic blood pressure	400975005	Diastolic blood pressure
+2159156012	246R	Sitting diastolic blood pressure	407555005	Diastolic blood pressure
+2159158013	246T	Lying diastolic blood pressure	407557002	Diastolic blood pressure
+2533636015	246c	Average home diastolic blood pressure	413605002	Diastolic blood pressure
+125231000006119	EGTON416	Standing Diastolic Bp	125231000006103	Diastolic blood pressure
+298311000000112	246f	Ambulatory diastolic blood pressure	198091000000104	Diastolic blood pressure
+619931000006119	246A	Diastolic arterial pressure	1091811000000102	Diastolic blood pressure
+1808021000006115	EMISNQDI86	Diastolic blood pressure - left arm	1808021000006104	Diastolic blood pressure
+1808051000006112	EMISNQDI87	Diastolic blood pressure - right arm	1808051000006108	Diastolic blood pressure
+1993951000006110	EMISNQHO138	Home diastolic blood pressure	1993951000006106	Diastolic blood pressure
+2418921000000115	246n0	Baseline diastolic blood pressure	716632005	Diastolic blood pressure
+5527211000006110	^ESCTDI552721	Diastolic blood pressure	271650006	Diastolic blood pressure
+6046181000006111	^ESCTMI604618	Minimum diastolic blood pressure	314451001	Diastolic blood pressure
+6046191000006114	^ESCTMA604619	Maximum diastolic blood pressure	314452008	Diastolic blood pressure
+6046231000006116	^ESCTMI604623	Minimum 24 hour diastolic blood pressure	314456006	Diastolic blood pressure
+6046261000006113	^ESCTMA604626	Maximum 24 hour diastolic blood pressure	314459004	Diastolic blood pressure
+6046321000006114	^ESCT24604632	24 hour diastolic blood pressure	314465004	Diastolic blood pressure

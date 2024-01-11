@@ -1,0 +1,11 @@
+medcodeid	originalreadcode	term	snomedctconceptid	hyperthy
+57561015	C02-1	Hyperthyroidism	34486009	hyperthy
+251587014	1431	H/O: hyperthyroidism	161442007	hyperthy
+2548990010	212P	Hyperthyroidism resolved	416477006	hyperthy
+2694980014	C025	Subclinical hyperthyroidism	427970008	hyperthy
+3513939016	^ESCT1170559	Hyperthyroidism in pregnancy	72271000119100	hyperthy
+905741000006112	HNG0048	[RFC] Hyperthyroidism	905741000006108	hyperthy
+1842051000006119	EMISNQSU54	Subclinical hyperthyroidism	427970008	hyperthy
+2588971000006116	^ESCTNE258897	Neonatal transient hyperthyroidism	5604000	hyperthy
+3508461000006113	^ESCTHY350846	Hyperthyroidism secondary to amiodarone	62052002	hyperthy
+3918261000006117	^ESCTHY391826	Hyperthyroidism due to ectopic thyroid nodule	87232008	hyperthy

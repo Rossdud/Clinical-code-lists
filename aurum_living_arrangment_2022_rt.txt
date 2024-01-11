@@ -1,0 +1,59 @@
+medcodeid	originalreadcode	term	snomedctconceptid	livarg
+169620017	13D1	Homeless family	105526001	homeless
+216617011	13FJ	Independent housing, lives alone	135852002	Living alone
+250503019	13D2	Homeless single person	160700001	homeless
+250547013	13F2	Lives alone - help available	160725005	Living alone
+250548015	13F3	Lives alone -no help available	160726006	Living alone
+250549011	13F31	Lives alone needs housekeeper	160727002	Living alone
+250553013	13F9-1	Living in sheltered accomodatn	160729004	cohabiting
+250574014	13FA	Living in B&B accommodation	160744003	homeless
+250578012	13FB	Living in lodgings	160745002	homeless
+250579016	13FC	Living in bedsitter	160746001	homeless
+285433016	9NA8	Cohabitee made appointment	185415007	cohabiting
+291148014	1B1K-2	Lives alone	105529008	Living alone
+337216012	13FL	Living rough	224228000	homeless
+397756010	13F9	Living in hostel	266939009	homeless
+412131011	1333-1	Separated from cohabitee	276125006	cohabiting
+442161011	13H5-1	Cohabitee returned	300958000	cohabiting
+460970010	ZV603	[V]Person living alone	105529008	Living alone
+460973012	ZV606	Living in residential institution	105530003	homeless
+485356010	13D-1	Homeless	32911000	homeless
+487634016	1336	Cohabiting	38070000	cohabiting
+1488623014	9d33	Cohabitee	394921008	cohabiting
+226421000000116	9k6	Homeless enhanced services administration	166301000000107	homeless
+226561000000111	9k60	Homeless enhanced service completed	166461000000103	homeless
+405061000000116	13FW	Living in temporary housing	247521000000104	cohabiting
+757521000000112	13D8	Length of time homeless	442244004	homeless
+781861000006110	13F1	Independent housing, not alone	160724009	cohabiting
+852841000006110	C100000066	Lives alone	852841000006106	Living alone
+940741000006110	HMPNQHO6	Homeless within the past year	940741000006106	homeless
+959371000006114	EMISCHO1	Homeless	959371000006105	homeless
+994061000006114	EMISNQCH13	Child/ children living with other family member	994061000006105	cohabiting
+994071000006119	EMISNQCH14	Child/ children living with partner	994071000006103	cohabiting
+994081000006116	EMISNQCH15	Child/ children living with client	994081000006100	cohabiting
+994091000006118	EMISNQLI5	Living in temporary housing	994091000006102	cohabiting
+1009781000006112	EMISNQLI14	Living in an NHS facility	1009781000006108	cohabiting
+1850961000006119	EMISNQRE338	Reason for influenza vaccine - living in long stay care facility	1850961000006103	cohabiting
+1872221000006118	EMISNQAC788	Accom status - homeless	1872221000006102	homeless
+1872291000006116	EMISNQAC795	Accom status - other homeless	1872291000006100	homeless
+1872451000006111	EMISNQAC810	Accom status - Foyer - ages 16-25 homeless or in housing need	1872451000006107	homeless
+1939021000006111	13Fc	Lives alone	105529008	Living alone
+1950961000006110	EMISNQRE521	Referral to homeless team	1950961000006106	homeless
+1951101000006119	EMISNQRE524	Referral to day centre for homeless	1951101000006103	homeless
+1991821000006111	EMISNQCH943	Children living in the home	1991821000006107	cohabiting
+1991831000006114	EMISNQCH944	Children living in the home - permanently	1991831000006105	cohabiting
+1991841000006116	EMISNQCH945	Children living in the home - weekends	1991841000006100	cohabiting
+1991851000006119	EMISNQCH946	Children living in the home - occasionally	1991851000006103	cohabiting
+2002641000006117	EMISNQRE615	Referral to homeless advocacy service	2002641000006101	homeless
+2002921000006119	EMISNQAS79	Assertive outreach in the care of the homeless	2002921000006103	homeless
+2004001000006118	EMISNQDE142	Declined referral to homeless advocacy service	2004001000006102	homeless
+2286501000000119	9Ngr	Under care of homeless advocacy service	702526004	homeless
+2312161000000117	8Hgc	Discharge from homeless advocacy service	898811000000106	homeless
+2733781000000113	^ESCT1171973	Referral to homeless advocacy service	1091381000000101	homeless
+2743791000000114	^ESCT1172422	Provision of community outreach care for homeless	1095491000000105	homeless
+4931071000006116	^ESCTHO493107	Hostel for the homeless	224675009	homeless
+6260921000006111	^ESCTFE626092	Feature of homelessness	364701009	homeless
+6723681000006110	^ESCTLI672368	Living temporarily with relatives	406132007	cohabiting
+8452221000006119	^ESCTRE845222	Referred by homeless drop-in centre	1077211000000104	homeless
+13072971000006116	^ESCT1307297	Living temporarily in care home	1240291000000104	cohabiting
+13788921000006113	^ESCT1378892	Lives alone no help available	160726006	Living alone

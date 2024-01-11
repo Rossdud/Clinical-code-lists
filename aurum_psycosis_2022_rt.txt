@@ -1,0 +1,173 @@
+medcodeid	originalreadcode	term	snomedctconceptid	psyco
+1452014	1BH0	Delusion of persecution	216004	psycosis
+4569010	1BH-1	Delusion	2073000	psycosis
+10122017	E13y1	Brief reactive psychosis	5464005	psycosis
+15243013	E010	Alcohol withdrawal delirium	8635005	psycosis
+15244019	E010-2	Delirium tremens	8635005	psycosis
+119579013	E141	Disintegrative psychosis	71961003	psycosis
+294662017	E0111	Korsakov's alcoholic psychosis with peripheral neuritis	191471000	psycosis
+294673012	E01y	Other alcoholic psychosis	42344001	psycosis
+294675017	E01yz	Other alcoholic psychosis NOS	42344001	psycosis
+294676016	E01z	Alcoholic psychosis NOS	42344001	psycosis
+294687012	E02y0	Drug-induced delirium	191492000	psycosis
+294693016	E02z	Drug psychosis NOS	191483003	psycosis
+294714016	E03y3	Postpartum psychosis	18260003	psycosis
+294721016	E04z	Chronic organic psychosis NOS	191447007	psycosis
+294806015	E1104	Single manic episode, severe, with psychosis	191586008	psycosis
+294815010	E1114	Recurrent manic episodes, severe, with psychosis	191595000	psycosis
+294828015	E1124	Single major depressive episode, severe, with psychosis	191604000	psycosis
+294840015	E1134	Recurrent major depressive episodes, severe, with psychosis	191613003	psycosis
+294897018	E11z	Affective psychosis	441704009	psycosis
+294902017	E11zz	Other affective psychosis NOS	441704009	psycosis
+294913019	E12z	Paranoid psychosis	191667009	psycosis
+294917018	E130	Reactive depressive psychosis	191676002	psycosis
+294919015	E131	Acute hysterical psychosis	191677006	psycosis
+294924017	E134	Psychogenic paranoid psychosis	191680007	psycosis
+294941015	E141z	Disintegrative psychosis NOS	71961003	psycosis
+294944011	E14y1	Borderline psychosis of childhood	191697001	psycosis
+295718011	Eu04z	Delirium	2776000	psycosis
+296066015	Eu22z	[X]Persistent delusional disorder, unspecified	231487004	psycosis
+346897015	E00y-1	Presbyophrenic psychosis	231438001	psycosis
+369805011	1BH1	Grandiose delusions	247667002	psycosis
+401768012	E121	Chronic paranoid psychosis	268622001	psycosis
+401771016	E1z	Non-organic psychosis NOS	191525009	psycosis
+401772011	E14z	Child psychosis NOS	191687005	psycosis
+401831017	Eu04y	[X]Other delirium	2776000	psycosis
+401857019	Eu22y	[X]Other persistent delusional disorders	231487004	psycosis
+401859016	Eu233	[X]Other acute predominantly delusional psychotic disorders	231489001	psycosis
+401862018	Eu2z	[X]Unspecified nonorganic psychosis	191525009	psycosis
+480834016	1BH	Delusions	2073000	psycosis
+507053019	E010-1	DTs - delirium tremens	8635005	psycosis
+2549129012	225E	O/E - paranoid delusions	416611006	psycosis
+2549426013	225F	O/E - delusion of persecution	416890005	psycosis
+3515942013	^ESCT1170549	Postpartum psychosis in remission	60401000119104	psycosis
+42191000006110	E03y0	Organic delusional syndrome	5510009	psycosis
+215841000000114	Eu220	Delusional disorder	48500005	psycosis
+215851000000112	Eu220-1	[X]Paranoid psychosis	191667009	psycosis
+223601000000119	E11-3	Manic psychosis	231494001	psycosis
+223611000000117	E13z	Non-organic psychosis	191525009	psycosis
+300411000000110	146H	H/O: psychosis	198991000000103	psycosis
+359091000006115	Eu02z-2	[X] Presenile psychosis NOS	268612007	psycosis
+359161000006110	Eu02z-5	[X] Senile psychosis NOS	268612007	psycosis
+362221000006114	Eu04-3	[X]Acute / subacute infective psychosis	191502008	psycosis
+362781000006116	Eu3z-1	[X]Affective psychosis NOS	46206005	psycosis
+362981000006119	Eu105-4	[X]Alcoholic psychosis NOS	42344001	psycosis
+366551000006116	Eu841-1	[X]Atypical childhood psychosis	231536004	psycosis
+367991000006119	Eu23z-1	[X]Brief reactive psychosis NOS	231489001	psycosis
+370981000006112	Eu2y-1	[X]Chronic hallucinatory psychosis	480111000000107	psycosis
+376271000006119	Eu230-2	[X]Cycloid psychosis	307417003	psycosis
+376281000006116	Eu231-2	Cycloid psychosis	307417003	psycosis
+376431000006118	Eu04y-1	[X]Delirium of mixed origin	2776000	psycosis
+376451000006113	Eu104-1	[X]Delirium tremens, alcohol induced	8635005	psycosis
+376461000006110	Eu04	[X]Delirium, not induced by alcohol+other psychoactive subs	111479008	psycosis
+376501000006110	Eu22y-1	[X]Delusional dysmorphophobia	231487004	psycosis
+377461000006113	Eu843-2	[X]Disintegrative psychosis	35919005	psycosis
+379411000006119	Eu452-2	[X]Dysmorphophobia nondelusional	18193002	psycosis
+379901000006113	Eu05y-1	[X]Epileptic psychosis NOS	111479008	psycosis
+389451000006110	Eu44-4	[X]Hysterical psychosis	44376007	psycosis
+389641000006110	Eu24	Induced delusional disorder	61831009	psycosis
+389681000006116	Eu840-3	[X]Infantile psychosis	408858002	psycosis
+394681000006119	Eu106-1	Korsakoff's psychosis	69482004	psycosis
+394691000006116	Eu03-1	[X]Korsakov's psychosis, nonalcoholic	3298001	psycosis
+396771000006117	Eu332-3	[X] Manic-depressive psychosis, depressed type without psychotic symptoms	36474008	psycosis
+396781000006119	Eu333-2	[X]Manic-depress psychosis,depressed type+psychotic symptoms	765176007	psycosis
+396801000006115	Eu31-2	Manic-depressive psychosis	13746004	psycosis
+397171000006115	Eu134	[X]Men & beh dis due seds/hypns: withdrwl state wth delirium	91388009	psycosis
+397191000006119	Eu184	[X]Men & beh dis vol solvents: withdrawal state wth delirium	74934004	psycosis
+397211000006118	Eu104	[X]Men & behav dis due alcohl: withdrawl state with delirium	8635005	psycosis
+397221000006114	Eu144	[X]Men & behav dis due cocaine: withdrawl state wth delirium	91388009	psycosis
+397231000006112	Eu114	[X]Men & behav dis due opioid: withdrawl state with delirium	91388009	psycosis
+397581000006111	Eu125	Cannabis-induced psychosis	943081000000102	psycosis
+397621000006111	Eu105	Alcohol-induced psychosis	42344001	psycosis
+397641000006116	Eu145	Cocaine-induced psychosis	943101000000108	psycosis
+397661000006117	Eu115	Opioid-induced psychosis	943071000000104	psycosis
+397691000006113	Eu185	Volatile inhalant-induced psychosis	943151000000109	psycosis
+398731000006116	Eu154	[X]Mnt/bh dis oth stims inc caffne: withdr state wt delirium	91388009	psycosis
+403961000006113	Eu052	Organic delusional disorder	5510009	psycosis
+404041000006111	Eu0z-1	[X]Organic psychosis NOS	111479008	psycosis
+419861000006117	Eu22	Persistent delusional disorder	231487004	psycosis
+424071000006112	Eu233-2	[X]Psychogenic paranoid psychosis	191680007	psycosis
+424281000006115	Eu531-1	[X]Puerperal psychosis NOS	199260001	psycosis
+424511000006112	Eu23z-2	[X]Reactive psychosis	231437006	psycosis
+424551000006113	Eu333-4	[X]Recurr severe episodes/psychogenic depressive psychosis	191613003	psycosis
+424681000006118	Eu333-6	Recurrent reactive depressive episodes, severe, with psychosis	1086471000000103	psycosis
+425551000006112	Eu25z-1	[X]Schizoaffective psychosis NOS	68890003	psycosis
+425561000006114	Eu251-1	[X]Schizoaffective psychosis, depressive type	84760002	psycosis
+425571000006119	Eu250-1	[X]Schizoaffective psychosis, manic type	271428004	psycosis
+425691000006119	Eu251-2	[X]Schizophreniform psychosis, depressive type	84760002	psycosis
+425701000006119	Eu250-2	[X]Schizophreniform psychosis, manic type	271428004	psycosis
+426951000006112	Eu323-2	[X]Single episode of psychogenic depressive psychosis	191676002	psycosis
+426981000006116	Eu323-4	[X]Single episode of reactive depressive psychosis	191676002	psycosis
+428441000006116	Eu843-4	[X]Symbiotic psychosis	35919005	psycosis
+476741000006111	E01	Alcohol-induced psychosis	42344001	psycosis
+492881000000114	212X	Psychosis resolved	285551000000108	psycosis
+513701000006116	E1144	Bipolar affect disord, currently manic,severe with psychosis	191623007	psycosis
+513721000006114	E1154	Bipolar affect disord, now depressed, severe with psychosis	765176007	psycosis
+612521000006115	E030-1	Delirium - acute organic	2776000	psycosis
+612531000006117	E031-1	Delirium - subacute organic	191507002	psycosis
+630831000006113	E02	Drug psychosis	191483003	psycosis
+753331000006118	E0110	Korsakov alcoholic psychosis	69482004	psycosis
+853201000006116	EGTON118	Obsessional compulsive psychosis	853201000006100	psycosis
+882251000006117	E03y3-99	Puerperal psychosis	551591000000100	psycosis
+882301000006112	E107-99	Acute schizo affective psychosis	191567000	psycosis
+914471000006113	Eu221	[X]Delusional misidentification syndrome	44906001	psycosis
+980131000006112	Eu1A4	[X]Ment behav dis due crack cocaine: withdraw state delirium	404684003	psycosis
+981141000006111	EMISCDE13	Delusions	981141000006107	psycosis
+1667591000000111	Eu26	[X]Nonorganic psychosis in remission	755311000000100	psycosis
+1755901000006112	Eu329	[X]Single major depressive episode, severe, with psychosis, psychosis in remission	755321000000106	psycosis
+1755911000006110	Eu32A	[X]Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	755331000000108	psycosis
+1821481000006114	JHCPO1	Possible early psychosis	1821481000006105	psycosis
+1821491000006112	JHCPO2	Possible psychosis prodrome	1821491000006108	psycosis
+1971451000006110	EMISICD10|F1140	Men & behav dis due opioid: withdrawl state with delirium, without convulsions	1971451000006106	psycosis
+1971461000006112	EMISICD10|F1141	Men & behav dis due opioid: withdrawl state with delirium, with convulsions	1971461000006108	psycosis
+1973861000006111	EMISICD10|F1951	Ment/behav dis mlti drug use/oth psyc sbs: psychotc dis, predominantly delusional	1973861000006107	psycosis
+1975761000006119	EMISICD10|F2330	Other acute predominantly delusional psychotic disorders, without associated acute stress	1975761000006103	psycosis
+1975781000006112	EMISICD10|F2331	Other acute predominantly delusional psychotic disorders, with associated acute stress	1975781000006108	psycosis
+2502001000006113	^ESCTPE250200	Persecutory delusion	216004	psycosis
+2531671000006114	^ESCTDE253167	Delusional thoughts	2073000	psycosis
+2531681000006112	^ESCTDE253168	Delusional ideas	2073000	psycosis
+2632941000006110	^ESCTDE263294	Delusion of infidelity	8330006	psycosis
+2730111000000111	^ESCT1171787	Acute predominantly delusional psychotic disorder	1089691000000105	psycosis
+3036131000006117	^ESCTSO303613	Somatic delusion disorder	33323008	psycosis
+3504751000006114	^ESCTIN350475	Induced psychosis	61831009	psycosis
+3549101000006116	^ESCTDE354910	Delusional perception	64514005	psycosis
+3627341000006115	^ESCTPS362734	Psychosis	69322001	psycosis
+3630121000006110	^ESCTKO363012	Korsakoff psychosis	69482004	psycosis
+3630151000006118	^ESCTKO363015	Korsakov psychosis	69482004	psycosis
+3760411000006111	^ESCTJE376041	Jealous delusion disorder	77475008	psycosis
+3956691000006118	^ESCTPE395669	Persecutory delusion disorder	89618007	psycosis
+3959871000006110	^ESCTDE395987	Delusion of parasitosis	89809008	psycosis
+4763081000006118	^ESCTSE476308	Senile delirium	191461002	psycosis
+4763211000006118	^ESCTDR476321	Drug-induced psychosis	191483003	psycosis
+4763231000006112	^ESCTDR476323	Drug induced psychosis	191483003	psycosis
+4763311000006110	^ESCTDR476331	Drug induced delirium	191492000	psycosis
+4763441000006118	^ESCTSU476344	Subacute delirium	191507002	psycosis
+4764511000006119	^ESCTPS476451	Psychosis with origin in childhood	191687005	psycosis
+4941461000006118	^ESCTPA494146	Paranoid delusion	225452001	psycosis
+5023421000006112	^ESCTDE502342	Delirium of mixed origin	231440006	psycosis
+5023531000006114	^ESCTEP502353	Epileptic psychosis	231449007	psycosis
+5106071000006112	^ESCTMI510607	Mild postnatal psychosis	237351003	psycosis
+5106081000006110	^ESCTSE510608	Severe postnatal psychosis	237352005	psycosis
+5128641000006117	^ESCTDE512864	Delusions of parasitosis	238973003	psycosis
+5128651000006115	^ESCTDE512865	Delusions of infestation	238974009	psycosis
+5128661000006118	^ESCTDE512866	Delusion of foul odour	238975005	psycosis
+5128691000006114	^ESCTDE512869	Delusional hyperhidrosis	238977002	psycosis
+5247201000006118	^ESCTRE524720	Religious delusion	247671004	psycosis
+5247211000006115	^ESCTDE524721	Delusional mood	247672006	psycosis
+5517971000006118	^ESCTMI551797	Mixed schizophrenic and affective psychosis	270901009	psycosis
+5582571000006113	^ESCTPR558257	Primary delusions	276243003	psycosis
+5614141000006110	^ESCTDE561414	Delusional dysmorphophobia	278508007	psycosis
+6515001000006117	^ESCTEA651500	Early intervention in psychosis	390815004	psycosis
+6519941000006116	^ESCTEA651994	Early intervention in psychosis - <1 contact/month	391190003	psycosis
+6705171000006111	^ESCTPO670517	Postoperative delirium	404906000	psycosis
+7018741000006112	^ESCTDE701874	Delusion of pregnancy	424040008	psycosis
+7515091000006113	^ESCTDE751509	Delusional disorder in remission	698951002	psycosis
+7790241000006117	^ESCTPS779024	Psychosis co-occurrent and due to Parkinson's disease	719717006	psycosis
+8044911000006116	^ESCTDE804491	Delusions in Alzheimer's disease	141991000119109	psycosis
+8044981000006111	^ESCTAL804498	Alzheimer's disease co-occurrent with delirium	142011000119109	psycosis
+8089301000006110	^ESCTRE808930	Reactive depressive psychosis, single episode	288751000119101	psycosis
+8232541000006114	^ESCTNO823254	Non-organic psychosis in remission	755311000000100	psycosis
+8232571000006118	^ESCTSI823257	Single major depressive episode, severe, with psychosis, psychosis in remission	755321000000106	psycosis
+8232591000006117	^ESCTRE823259	Recurrent major depressive episodes, severe, with psychosis, psychosis in remission	755331000000108	psycosis
+8342781000006115	^ESCTPS834278	Psychoactive substance-induced psychosis	943121000000104	psycosis
+12736721000006110	^ESCT1273672	FEP - first episode psychosis	1127191000000108	psycosis

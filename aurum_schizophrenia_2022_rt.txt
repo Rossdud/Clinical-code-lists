@@ -1,0 +1,128 @@
+medcodeid	originalreadcode	term	snomedctconceptid	schiz
+9225016	E1005	Schizophrenia in remission	4926007	schizaphrenia
+28758018	E1001	Subchronic schizophrenia	16990005	schizaphrenia
+43595011	E106	Residual schizophrenia	26025008	schizaphrenia
+52897013	E1032	Chronic paranoid schizophrenia	31658008	schizaphrenia
+71539017	E1021	Subchronic catatonic schizophrenia	42868002	schizaphrenia
+105029017	E1035	Paranoid schizophrenia in remission	63181006	schizaphrenia
+107878010	E103	Paranoid schizophrenia	64905009	schizaphrenia
+114616017	E1022	Chronic catatonic schizophrenia	68995007	schizaphrenia
+132503015	E1031	Subchronic paranoid schizophrenia	79866005	schizaphrenia
+178723016	E1025	Catatonic schizophrenia in remission	111483008	schizaphrenia
+294726014	E100-1	Schizophrenia simplex	191527001	schizaphrenia
+294727017	E100	Simple schizophrenia	191527001	schizaphrenia
+294728010	E1000	Unspecified schizophrenia	58214004	schizaphrenia
+294734015	E100z	Simple schizophrenia NOS	191527001	schizaphrenia
+294735019	E1010	Unspecified hebephrenic schizophrenia	35252006	schizaphrenia
+294736018	E1011	Subchronic hebephrenic schizophrenia	27387000	schizaphrenia
+294737010	E1012	Chronic hebephrenic schizophrenia	12939007	schizaphrenia
+294740010	E1015	Hebephrenic schizophrenia in remission	31373002	schizaphrenia
+294741014	E101z	Hebephrenic schizophrenia NOS	35252006	schizaphrenia
+294742019	E102	Catatonic schizophrenia	191542003	schizaphrenia
+294744018	E1020	Unspecified catatonic schizophrenia	191542003	schizaphrenia
+294753013	E102z	Catatonic schizophrenia NOS	191542003	schizaphrenia
+294754019	E1030	Unspecified paranoid schizophrenia	64905009	schizaphrenia
+294760019	E103z	Paranoid schizophrenia NOS	64905009	schizaphrenia
+294764011	E105	Latent schizophrenia	191559008	schizaphrenia
+294765012	E1050	Unspecified latent schizophrenia	191559008	schizaphrenia
+294766013	E1051	Subchronic latent schizophrenia	191561004	schizaphrenia
+294767016	E1052	Chronic latent schizophrenia	191562006	schizaphrenia
+294770017	E1055	Latent schizophrenia in remission	191565008	schizaphrenia
+294771018	E105z	Latent schizophrenia NOS	191559008	schizaphrenia
+294773015	E107-1	Cyclic schizophrenia	191567000	schizaphrenia
+294787015	E10y1	Coenesthopathic schizophrenia	191577003	schizaphrenia
+294788013	E10y-1	Cenesthopathic schizophrenia	191577003	schizaphrenia
+294789017	E10yz	Other schizophrenia NOS	58214004	schizaphrenia
+294790014	E10z	Schizophrenia	58214004	schizaphrenia
+296031017	Eu203	Undifferentiated schizophrenia	111484002	schizaphrenia
+296040018	Eu20z	[X]Schizophrenia, unspecified	58214004	schizaphrenia
+346955013	E14z-1	Childhood schizophrenia NOS	191687005	schizaphrenia
+401764014	E10y	Other schizophrenia	58214004	schizaphrenia
+401855010	Eu20y	[X]Other schizophrenia	58214004	schizaphrenia
+1219653018	E10y0	Atypical schizophrenia	111484002	schizaphrenia
+78531000006116	E1070	Unspecified schizo-affective schizophrenia	191567000	schizaphrenia
+123611000006110	E1071	Subchronic schizo-affective schizophrenia	191569002	schizaphrenia
+155141000006116	E107	Schizoaffective schizophrenia	191567000	schizaphrenia
+155151000006119	E1075	Schizoaffective schizophrenia in remission	191574005	schizaphrenia
+155161000006117	E107z	Schizo-affective schizophrenia NOS	191567000	schizaphrenia
+169061000006112	E106-1	Restzustand - schizophrenia	26025008	schizaphrenia
+366571000006114	Eu203-1	[X]Atypical schizophrenia	111484002	schizaphrenia
+367951000006113	Eu21-2	Borderline schizophrenia	274952002	schizaphrenia
+370451000006110	Eu202	[X]Catatonic schizophrenia	191542003	schizaphrenia
+370631000006117	Eu20y-1	[X]Cenesthopathic schizophrenia	58214004	schizaphrenia
+371031000006115	Eu205-1	[X]Chronic undifferentiated schizophrenia	111484002	schizaphrenia
+376251000006112	Eu252-1	[X]Cyclic schizophrenia	270901009	schizaphrenia
+388741000006110	Eu201	[X]Hebephrenic schizophrenia	35252006	schizaphrenia
+395021000006111	Eu21-3	[X]Latent schizophrenia	191559008	schizaphrenia
+418221000006118	Eu200	[X]Paranoid schizophrenia	64905009	schizaphrenia
+418261000006112	Eu200-1	[X]Paraphrenic schizophrenia	64905009	schizaphrenia
+423471000006117	Eu21-5	Prodromal schizophrenia	247804008	schizaphrenia
+423731000006114	Eu21-6	[X]Pseudoneurotic schizophrenia	31027006	schizaphrenia
+423741000006116	Eu21-7	[X]Pseudopsychopathic schizophrenia	31027006	schizaphrenia
+424841000006113	Eu205	[X]Residual schizophrenia	26025008	schizaphrenia
+425601000006114	Eu20	[X]Schizophrenia	58214004	schizaphrenia
+426881000006111	Eu206	[X]Simple schizophrenia	191527001	schizaphrenia
+492821000000113	212W	Schizophrenia resolved	285521000000103	schizaphrenia
+556631000006116	E1072	Chronic schizoaffective schizophrenia	191570001	schizaphrenia
+819351000006115	E101	Hebephrenic schizophrenia	35252006	schizaphrenia
+1974351000006118	EMISICD10|F2000	Paranoid schizophrenia, continuous	1974351000006102	schizaphrenia
+1974391000006112	EMISICD10|F2001	Paranoid schizophrenia, episodic with progressive deficit	1974391000006108	schizaphrenia
+1974431000006118	EMISICD10|F2002	Paranoid schizophrenia, episodic with stable deficit	1974431000006102	schizaphrenia
+1974451000006113	EMISICD10|F2003	Paranoid schizophrenia, episodic remittent	1974451000006109	schizaphrenia
+1974481000006117	EMISICD10|F2004	Paranoid schizophrenia, incomplete remission	1974481000006101	schizaphrenia
+1974511000006113	EMISICD10|F2005	Paranoid schizophrenia, complete remission	1974511000006109	schizaphrenia
+1974541000006112	EMISICD10|F2009	Paranoid schizophrenia, course uncertain, period of observation too short	1974541000006108	schizaphrenia
+1974601000006111	EMISICD10|F2010	Hebephrenic schizophrenia, continuous	1974601000006107	schizaphrenia
+1974611000006114	EMISICD10|F2011	Hebephrenic schizophrenia, episodic with progressive deficit	1974611000006105	schizaphrenia
+1974621000006118	EMISICD10|F2012	Hebephrenic schizophrenia, episodic with stable deficit	1974621000006102	schizaphrenia
+1974641000006113	EMISICD10|F2013	Hebephrenic schizophrenia, episodic remittent	1974641000006109	schizaphrenia
+1974671000006117	EMISICD10|F2014	Hebephrenic schizophrenia, incomplete remission	1974671000006101	schizaphrenia
+1974691000006116	EMISICD10|F2015	Hebephrenic schizophrenia, complete remission	1974691000006100	schizaphrenia
+1974721000006114	EMISICD10|F2019	Hebephrenic schizophrenia, course uncertain, period of observation too short	1974721000006105	schizaphrenia
+1974751000006117	EMISICD10|F2020	Catatonic schizophrenia, continuous	1974751000006101	schizaphrenia
+1974781000006113	EMISICD10|F2021	Catatonic schizophrenia, episodic with progressive deficit	1974781000006109	schizaphrenia
+1974801000006112	EMISICD10|F2022	Catatonic schizophrenia, episodic with stable deficit	1974801000006108	schizaphrenia
+1974831000006116	EMISICD10|F2023	Catatonic schizophrenia, episodic remittent	1974831000006100	schizaphrenia
+1974861000006113	EMISICD10|F2024	Catatonic schizophrenia, incomplete remission	1974861000006109	schizaphrenia
+1974891000006117	EMISICD10|F2025	Catatonic schizophrenia, complete remission	1974891000006101	schizaphrenia
+1974921000006111	EMISICD10|F2029	Catatonic schizophrenia, course uncertain, period of observation too short	1974921000006107	schizaphrenia
+1975051000006119	EMISICD10|F2034	Undifferentiated schizophrenia, incomplete remission	1975051000006103	schizaphrenia
+1975351000006117	EMISICD10|F2050	Residual schizophrenia, continuous	1975351000006101	schizaphrenia
+1975381000006113	EMISICD10|F2051	Residual schizophrenia, episodic with progressive deficit	1975381000006109	schizaphrenia
+1975401000006113	EMISICD10|F2052	Residual schizophrenia, episodic with stable deficit	1975401000006109	schizaphrenia
+1975431000006117	EMISICD10|F2053	Residual schizophrenia, episodic remittent	1975431000006101	schizaphrenia
+1975441000006110	EMISICD10|F2054	Residual schizophrenia, incomplete remission	1975441000006106	schizaphrenia
+1975471000006119	EMISICD10|F2055	Residual schizophrenia, complete remission	1975471000006103	schizaphrenia
+1975481000006116	EMISICD10|F2059	Residual schizophrenia, course uncertain, period of observation too short	1975481000006100	schizaphrenia
+1975491000006118	EMISICD10|F2060	Simple schizophrenia, continuous	1975491000006102	schizaphrenia
+1975501000006114	EMISICD10|F2061	Simple schizophrenia, episodic with progressive deficit	1975501000006105	schizaphrenia
+1975521000006116	EMISICD10|F2062	Simple schizophrenia, episodic with stable deficit	1975521000006100	schizaphrenia
+1975551000006113	EMISICD10|F2063	Simple schizophrenia, episodic remittent	1975551000006109	schizaphrenia
+1975571000006115	EMISICD10|F2064	Simple schizophrenia, incomplete remission	1975571000006104	schizaphrenia
+1975601000006110	EMISICD10|F2065	Simple schizophrenia, complete remission	1975601000006106	schizaphrenia
+1975641000006112	EMISICD10|F2069	Simple schizophrenia, course uncertain, period of observation too short	1975641000006108	schizaphrenia
+1975751000006116	EMISICD10|F2080	Other schizophrenia, continuous	1975751000006100	schizaphrenia
+1975771000006114	EMISICD10|F2081	Other schizophrenia, episodic with progressive deficit	1975771000006105	schizaphrenia
+1975801000006111	EMISICD10|F2082	Other schizophrenia, episodic with stable deficit	1975801000006107	schizaphrenia
+1975831000006115	EMISICD10|F2083	Other schizophrenia, episodic remittent	1975831000006104	schizaphrenia
+1975841000006113	EMISICD10|F2084	Other schizophrenia, incomplete remission	1975841000006109	schizaphrenia
+1975881000006119	EMISICD10|F2085	Other schizophrenia, complete remission	1975881000006103	schizaphrenia
+1975911000006119	EMISICD10|F2089	Other schizophrenia, course uncertain, period of observation too short	1975911000006103	schizaphrenia
+1976001000006113	EMISICD10|F2090	Schizophrenia, unspecified, continuous	1976001000006109	schizaphrenia
+1976061000006114	EMISICD10|F2091	Schizophrenia, unspecified, episodic with progressive deficit	1976061000006105	schizaphrenia
+1976101000006112	EMISICD10|F2092	Schizophrenia, unspecified, episodic with stable deficit	1976101000006108	schizaphrenia
+1976121000006119	EMISICD10|F2093	Schizophrenia, unspecified, episodic remittent	1976121000006103	schizaphrenia
+1976141000006114	EMISICD10|F2094	Schizophrenia, unspecified, incomplete remission	1976141000006105	schizaphrenia
+1976151000006111	EMISICD10|F2095	Schizophrenia, unspecified, complete remission	1976151000006107	schizaphrenia
+1976171000006118	EMISICD10|F2099	Schizophrenia, unspecified, course uncertain, period of observation too short	1976171000006102	schizaphrenia
+1976881000006112	EMISICD10|F2008	Paranoid schizophrenia, other	1976881000006108	schizaphrenia
+1976891000006110	EMISICD10|F2018	Hebephrenic schizophrenia, other	1976891000006106	schizaphrenia
+1976901000006114	EMISICD10|F2028	Catatonic schizophrenia, other	1976901000006105	schizaphrenia
+1976911000006112	EMISICD10|F2038	Undifferentiated schizophrenia, other	1976911000006108	schizaphrenia
+1976931000006118	EMISICD10|F2058	Residual schizophrenia, other	1976931000006102	schizaphrenia
+1976941000006111	EMISICD10|F2068	Simple schizophrenia, other	1976941000006107	schizaphrenia
+1976951000006113	EMISICD10|F2088	Other schizophrenia, other	1976951000006109	schizaphrenia
+1976961000006110	EMISICD10|F2098	Schizophrenia, unspecified, other	1976961000006106	schizaphrenia
+3137261000006111	^ESCTUN313726	Undifferentiated schizophrenia in remission	39610001	schizaphrenia
+3862661000006112	^ESCTCH386266	Chronic schizophrenia	83746006	schizaphrenia
+6890801000006117	^ESCTLA689080	Late onset schizophrenia	416340002	schizaphrenia

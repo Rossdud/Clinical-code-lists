@@ -1,0 +1,14 @@
+medcodeid	cleansedreadcode	term	snomedctconceptid	eFI
+370645010	2Jd..00	Frailty	248279007	score to be catagorised
+1839051000006110		On frailty register	1839051000006106	score to be catagorised
+2008641000006119		Discharge from community frailty service	2008641000006103	score to be catagorised
+2367201000000110	38Ql.00	Frailty Index score	713636003	score to be catagorised
+2373871000000117	2Jd0.00	Mild frailty	925791000000100	mild
+2373951000000116	2Jd1.00	Moderate frailty	925831000000107	moderate
+2374011000000117	2Jd2.00	Severe frailty	925861000000102	severe
+7707051000006113		Frailty Index	713634000	score to be catagorised
+8452111000006116		Streamed from emergency department to frailty service following initial assessment	1077101000000105	score to be catagorised
+8465251000006114		Frailty assessment	1086611000000106	score to be catagorised
+12118141000006115		Frailty case management	1099901000000106	score to be catagorised
+12736371000006112		Frailty needs assessment	748111000000107	score to be catagorised
+12736551000006110		Frailty needs assessment planned	894301000000105	score to be catagorised

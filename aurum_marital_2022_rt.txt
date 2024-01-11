@@ -1,0 +1,62 @@
+medcodeid	originalreadcode	term	snomedctconceptid	marital
+129552010	133C	Widower	78061006	divorced/widowed/single
+191514016	1332	Married	87915002	married/partner
+191517011	1334	Divorced	20295000	divorced/widowed/single
+216633014	13MF	Death of partner	722228009	divorced/widowed/single
+250535019	13EF	Divorced couple sharing house	160717008	divorced/widowed/single
+250791010	13I1	Partner begins work	160853002	married/partner
+250792015	13I2	Partner stops work	160854008	married/partner
+250793013	13I3	Partner retires	160855009	married/partner
+250794019	13I4	Partner works after retirement	160856005	married/partner
+250817016	13ID	Partner unemployed	160875000	married/partner
+262935017	6123	No partner at present	169447004	divorced/widowed/single
+335218014	U3M0	[X]Neglect and abandonment, by spouse or partner	52684005	divorced/widowed/single
+335225019	U3N0	[X]Other maltreatment syndromes, by spouse or partner	417928002	married/partner
+389947015	133b	Partner in relationship	262043009	married/partner
+401444017	6124	Partner had vasectomy	268457007	married/partner
+411077019	13L6-1	Has infirm partner	275144009	married/partner
+411878013	6124-1	Partner sterilised	275909008	married/partner
+412070019	13JK-3	Partnership problems	276079004	married/partner
+415853015	1332-1	Remarried	278836005	married/partner
+476009017	133e	Common law partnership	14012001	married/partner
+485552011	1335	Widowed	33553000	divorced/widowed/single
+486188017	13H43	Maladjustment to married life	35491004	married/partner
+1485014011	13L7	Partner dying	390985008	married/partner
+2159175019	67M	Informing partner	407574002	married/partner
+2160115018	13o1	Requires communication partner	408565001	married/partner
+2470673016	13Fb	Lives with partner	408821002	married/partner
+298041000000110	1A85	Breast lump detected by partner	198001000000106	married/partner
+300231000000115	1AZ4	Low sperm count in partner	198911000000107	married/partner
+300251000000110	1AZ5	Fertility problems in partner	198921000000101	married/partner
+406411000000118	13Ib	Child lives with partner	248191000000107	married/partner
+493971000000110	133S	Married/civil partner	286051000000109	married/partner
+494031000000110	133T	Divorced/person whose civil partnership has been dissolved	286081000000103	divorced/widowed/single
+494151000000119	133V	Widowed/surviving civil partner	286141000000107	divorced/widowed/single
+562571000000116	13Ir	Partner pregnant	704502000	married/partner
+738831000000111	6127	Partner had tubal ligation	442223004	married/partner
+981081000006118	EMISCPH6	Physically/emotionally abusive to partner	981081000006102	married/partner
+994071000006119	EMISNQCH14	Child/ children living with partner	994071000006103	married/partner
+1009721000006113	EMISNQLI8	Lives independently with spouse/partner	1009721000006109	married/partner
+1009741000006118	EMISNQLI10	Lives independently with spouse/partner + children	1009741000006102	married/partner
+1539061000006113	PCSQI117	New partner male	1539061000006109	married/partner
+1661521000000116	61Q	Partner contraception	755061000000101	married/partner
+1672431000006114	EMISNQCO47	Common law partnership	1672431000006105	married/partner
+1716541000000113	1P75	Knows partner's method of contraception	449347008	married/partner
+1748001000006118	EMISNQPA106	Patient aware of partner's method of contraception	1748001000006102	married/partner
+1804941000006115	JHCRE3	Registered partnership	1804941000006104	married/partner
+1817361000006114	U3P0	[X]Maltreatment, by spouse or partner	417928002	married/partner
+1834051000006111	EMISNQMA98	Male partner	1834051000006107	married/partner
+1834061000006113	EMISNQFE13	Female partner	1834061000006109	married/partner
+1998361000006115	EMISNQPO70	Polygamous partner	1998361000006104	married/partner
+2407071000000118	13IZ3	Partner deceased	722228009	divorced/widowed/single
+2407111000000112	13IZ4	Partner alive	719176000	married/partner
+2407151000000111	13IZ5	Partner unwell	719175001	married/partner
+2407191000000115	13IZ6	Partner well	719170006	married/partner
+3392411000006112	^ESCTEN339241	Engaged to be married	54986009	married/partner
+5170631000006111	^ESCTAB517063	Abuse of partner	242039002	married/partner
+5887191000006116	^ESCTRE588719	Reconciliation with partner	300958000	married/partner
+5888151000006114	^ESCTDI588815	Disharmony with partner	301029007	married/partner
+6557191000006111	^ESCTCA655719	Cancer diagnosis discussed with partner in relationship	395671003	married/partner
+6853791000006115	^ESCTFA685379	Failure to conceive due to infertility of male partner	414187003	married/partner
+7691581000006111	^ESCTHE769158	Health of partner	712495001	married/partner
+13932191000006111	^ESCT1393219	Partner had vasectomy	830148006	married/partner
