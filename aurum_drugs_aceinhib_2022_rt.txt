@@ -1,0 +1,363 @@
+prodcodeid,termfromemis,drugsubstancename,bnfchapter,aceinhib
+10841000033119,Acepril 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+10941000033110,Acepril 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+11041000033117,Acepril 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+11241000033113,Accuretic 10mg/12.5mg tablets (Pfizer Ltd),Hydrochlorothiazide/ Quinapril hydrochloride,2050501,1
+11641000033111,Accupro 40mg tablets (Pfizer Ltd),Quinapril hydrochloride,2050501,1
+13141000033119,Acezide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril/ Hydrochlorothiazide,2050501,1
+13241000033114,Accupro 10mg tablets (Pfizer Ltd),Quinapril hydrochloride,2050501,1
+13341000033116,Accupro 20mg tablets (Pfizer Ltd),Quinapril hydrochloride,2050501,1
+13441000033110,Accupro 5mg tablets (Pfizer Ltd),Quinapril hydrochloride,2050501,1
+59141000033113,Amias 16mg tablets (Neon Healthcare Ltd),Candesartan cilexetil,2050502,1
+59241000033118,Amias 2mg tablets (Neon Healthcare Ltd),Candesartan cilexetil,2050502,1
+59341000033111,Amias 4mg tablets (Neon Healthcare Ltd),Candesartan cilexetil,2050502,1
+59441000033117,Amias 8mg tablets (Neon Healthcare Ltd),Candesartan cilexetil,2050502,1
+75941000033114,Aprovel 150mg tablets (Sanofi),Irbesartan,2050502,1
+76041000033116,Aprovel 300mg tablets (Sanofi),Irbesartan,2050502,1
+76141000033117,Aprovel 75mg tablets (Sanofi),Irbesartan,2050502,1
+209241000033119,Capozide LS 12.5mg/25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril/ Hydrochlorothiazide,,1
+209841000033115,Carace 10 Plus tablets (Organon Pharma (UK) Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+210541000033113,Captopril Tablets 1 mg,,,1
+210741000033117,Captopril Tablets 2 mg,,,1
+211541000033119,Candesartan 16mg tablets,Candesartan cilexetil,2050502,1
+211641000033118,Candesartan 2mg tablets,Candesartan cilexetil,2050502,1
+211741000033110,Candesartan 4mg tablets,Candesartan cilexetil,2050502,1
+211841000033117,Candesartan 8mg tablets,Candesartan cilexetil,2050502,1
+213441000033119,Captopril 12.5mg tablets,Captopril,2050501,1
+214141000033113,Capoten 12.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+214241000033118,Capoten 25mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+214341000033111,Capoten 50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril,2050501,1
+214441000033117,Captopril 25mg tablets,Captopril,2050501,1
+214541000033116,Captopril 50mg tablets,Captopril,2050501,1
+215941000033111,Carace 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,,1
+216041000033118,Carace 2.5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,,1
+216141000033119,Carace 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,,1
+216241000033114,Carace 5mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Lisinopril,,1
+216441000033110,Capozide 25mg/50mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Captopril/ Hydrochlorothiazide,2050501,1
+217041000033116,Carace 20 Plus tablets (Organon Pharma (UK) Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+258141000033110,Cilazapril 1mg tablets,Cilazapril monohydrate,,1
+258241000033115,Cilazapril 2.5mg tablets,Cilazapril monohydrate,,1
+258341000033113,Cilazapril Tablets 250 micrograms,,,1
+258441000033119,Cilazapril 500microgram tablets,Cilazapril monohydrate,,1
+258641000033117,Cilazapril 5mg tablets,Cilazapril monohydrate,,1
+370441000033112,Cozaar 25mg tablets (Organon Pharma (UK) Ltd),Losartan potassium,2050502,1
+370541000033113,Cozaar 50mg tablets (Organon Pharma (UK) Ltd),Losartan potassium,2050502,1
+370841000033110,Cozaar-Comp 50mg/12.5mg tablets (Organon Pharma (UK) Ltd),Hydrochlorothiazide/ Losartan potassium,2050502,1
+377541000033114,Coversyl 2mg tablets (Servier Laboratories Ltd),Perindopril erbumine,2050501,1
+377641000033110,Coversyl 4mg tablets (Servier Laboratories Ltd),Perindopril erbumine,2050501,1
+437641000033118,Diovan 160mg capsules (Novartis Pharmaceuticals UK Ltd),Valsartan,2050502,1
+437741000033110,Diovan 40mg capsules (Novartis Pharmaceuticals UK Ltd),Valsartan,2050502,1
+437841000033117,Diovan 80mg capsules (Novartis Pharmaceuticals UK Ltd),Valsartan,2050502,1
+522641000033110,Enalapril 10mg tablets,Enalapril maleate,2050501,1
+522741000033118,Enalapril 20mg tablets,Enalapril maleate,2050501,1
+522841000033111,Enalapril 5mg tablets,Enalapril maleate,2050501,1
+523541000033115,Enalapril 2.5mg tablets,Enalapril maleate,2050501,1
+523741000033111,Enalapril Maleate Titration pack,,,1
+523941000033114,Enalapril Maleate Wafers 10 mg,,,1
+524041000033111,Enalapril Maleate Wafers 2.5 mg,,,1
+524141000033110,Enalapril Maleate Wafers 20 mg,,,1
+524241000033115,Enalapril Maleate Wafers 5 mg,,,1
+524341000033113,Enalapril Maleate Wafers 10 mg,,,1
+524441000033119,Enalapril Maleate Wafers 2.5 mg,,,1
+524541000033118,Enalapril Maleate Wafers 20 mg,,,1
+524641000033117,Enalapril Maleate Wafers 5 mg,,,1
+609141000033111,Fosinopril 10mg tablets,Fosinopril sodium,2050501,1
+609241000033116,Fosinopril 20mg tablets,Fosinopril sodium,2050501,1
+648341000033112,Gopten 1mg capsules (Abbott Laboratories Ltd),Trandolapril,,1
+648441000033118,Gopten 2mg capsules (Abbott Laboratories Ltd),Trandolapril,,1
+648541000033117,Gopten 500microgram capsules (Abbott Laboratories Ltd),Trandolapril,,1
+769041000033116,Innovace 10mg tablets (Organon Pharma (UK) Ltd),Enalapril maleate,2050501,1
+769141000033117,Innovace 2.5mg tablets (Organon Pharma (UK) Ltd),Enalapril maleate,2050501,1
+769241000033112,Innovace 20mg tablets (Organon Pharma (UK) Ltd),Enalapril maleate,2050501,1
+769341000033119,Innovace 5mg tablets (Organon Pharma (UK) Ltd),Enalapril maleate,2050501,1
+770141000033115,Innozide 20mg/12.5mg tablets (Organon Pharma (UK) Ltd),Enalapril maleate/ Hydrochlorothiazide,2050501,1
+775441000033117,Irbesartan 150mg tablets,Irbesartan,2050502,1
+775541000033116,Irbesartan 300mg tablets,Irbesartan,2050502,1
+775641000033115,Irbesartan 75mg tablets,Irbesartan,2050502,1
+837841000033110,Lisinopril 10mg tablets,Lisinopril,2050501,1
+837941000033119,Lisinopril 2.5mg tablets,Lisinopril,2050501,1
+838041000033116,Lisinopril 20mg tablets,Lisinopril,2050501,1
+838141000033117,Lisinopril 5mg tablets,Lisinopril,2050501,1
+851841000033117,Losartan 25mg tablets,Losartan potassium,2050502,1
+851941000033113,Losartan 50mg tablets,Losartan potassium,2050502,1
+938041000033113,Moexipril 15mg tablets,Moexipril hydrochloride,2050501,1
+938141000033112,Moexipril 7.5mg tablets,Moexipril hydrochloride,2050501,1
+998541000033110,Odrik 1mg capsules (Aventis Pharma),Trandolapril,,1
+998641000033111,Odrik 2mg capsules (Aventis Pharma),Trandolapril,,1
+998741000033119,Odrik 500microgram capsules (Aventis Pharma),Trandolapril,,1
+1065941000033115,Perdix 15mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,2050501,1
+1066041000033113,Perdix 7.5mg tablets (UCB Pharma Ltd),Moexipril hydrochloride,2050501,1
+1067841000033115,Perindopril erbumine 2mg tablets,Perindopril erbumine,2050501,1
+1067941000033111,Perindopril erbumine 4mg tablets,Perindopril erbumine,2050501,1
+1149241000033111,Quinapril 5mg tablets,Quinapril hydrochloride,2050501,1
+1149341000033118,Quinapril 10mg tablets,Quinapril hydrochloride,2050501,1
+1149441000033112,Quinapril 20mg tablets,Quinapril hydrochloride,2050501,1
+1149541000033113,Quinapril 40mg tablets,Quinapril hydrochloride,2050501,1
+1151341000033117,Ramipril 1.25mg capsules,Ramipril,2050501,1
+1151441000033111,Ramipril 2.5mg capsules,Ramipril,2050501,1
+1151541000033112,Ramipril 5mg capsules,Ramipril,2050501,1
+1387341000033114,Staril 10mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,,1
+1387441000033115,Staril 20mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Fosinopril sodium,,1
+1406341000033117,Tarka modified-release capsules (Abbott Laboratories Ltd),Trandolapril/ Verapamil hydrochloride,,1
+1453941000033115,Trandolapril 1mg capsules,Trandolapril,2050501,1
+1454041000033118,Trandolapril 2mg capsules,Trandolapril,2050501,1
+1454141000033119,Trandolapril 500microgram capsules,Trandolapril,2050501,1
+1455541000033110,Tritace 1.25mg capsules (Aventis Pharma),Ramipril,2050501,1
+1455641000033111,Tritace 2.5mg capsules (Sanofi),Ramipril,2050501,1
+1455741000033119,Tritace 5mg capsules (Sanofi),Ramipril,2050501,1
+1498241000033111,Valsartan 160mg capsules,Valsartan,2050502,1
+1498341000033118,Valsartan 40mg capsules,Valsartan,2050502,1
+1498441000033112,Valsartan 80mg capsules,Valsartan,2050502,1
+1503441000033113,Vascace 5mg tablets (Roche Products Ltd),Cilazapril monohydrate,,1
+1504641000033112,Vascace 1mg tablets (Roche Products Ltd),Cilazapril monohydrate,,1
+1504741000033115,Vascace 2.5mg tablets (Roche Products Ltd),Cilazapril monohydrate,,1
+1504941000033117,Vascace 500microgram tablets (Roche Products Ltd),Cilazapril monohydrate,,1
+1551841000033118,Zestoretic 10 tablets (AstraZeneca UK Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+1551941000033114,Zestril 10mg tablets (AstraZeneca UK Ltd),Lisinopril,2050501,1
+1552041000033115,Zestril 2.5mg tablets (AstraZeneca UK Ltd),Lisinopril,2050501,1
+1552141000033116,Zestril 20mg tablets (AstraZeneca UK Ltd),Lisinopril,2050501,1
+1552241000033111,Zestril 5mg tablets (AstraZeneca UK Ltd),Lisinopril,2050501,1
+1552341000033118,Zestoretic 20 tablets (AstraZeneca UK Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+1622041000033110,Kaplon 12.5mg tablets (Teva UK Ltd),Captopril,2050501,1
+1622141000033114,Kaplon 25mg tablets (Teva UK Ltd),Captopril,2050501,1
+1622241000033119,Kaplon 50mg tablets (Teva UK Ltd),Captopril,2050501,1
+1739741000033112,Imidapril 10mg tablets,Imidapril hydrochloride,2050501,1
+1739841000033119,Imidapril 5mg tablets,Imidapril hydrochloride,2050501,1
+1753841000033118,Tanatril 10mg tablets (Northumbria Pharma Ltd),Imidapril hydrochloride,2050501,1
+1753941000033114,Tanatril 5mg tablets (Northumbria Pharma Ltd),Imidapril hydrochloride,2050501,1
+1769841000033111,Ramipril 10mg capsules,Ramipril,2050501,1
+1769941000033115,Tritace 10mg capsules (Sanofi),Ramipril,2050501,1
+1834341000033110,Triapin 5mg/5mg modified-release tablets (Sanofi),Felodipine/ Ramipril,2050501,1
+1849541000033118,Telmisartan 40mg tablets,Telmisartan,2050502,1
+1849641000033117,Telmisartan 80mg tablets,Telmisartan,2050502,1
+1849741000033114,Micardis 40mg tablets (Boehringer Ingelheim Ltd),Telmisartan,2050502,1
+1849841000033116,Micardis 80mg tablets (Boehringer Ingelheim Ltd),Telmisartan,2050502,1
+1893141000033119,Co-zidocapt 12.5mg/25mg tablets,Captopril/ Hydrochlorothiazide,2050501,1
+1893241000033114,Co-zidocapt 25mg/50mg tablets,Captopril/ Hydrochlorothiazide,2050501,1
+1918641000033112,Pralenal 2.5 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,2050501,1
+1918741000033115,Pralenal 5 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,2050501,1
+1918841000033113,Pralenal 10 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,2050501,1
+1918941000033117,Pralenal 20 tablets (Opus Pharmaceuticals Ltd),Enalapril maleate,2050501,1
+2036341000033115,Eprosartan 300mg tablets,Eprosartan mesilate,2050502,1
+2036441000033114,Eprosartan 400mg tablets,Eprosartan mesilate,2050502,1
+2036541000033110,Eprosartan 600mg tablets,Eprosartan mesilate,2050502,1
+2040841000033113,Teveten 300mg tablets (Viatris UK Healthcare Ltd),Eprosartan mesilate,2050502,1
+2040941000033117,Teveten 400mg tablets (Abbott Healthcare Products Ltd),Eprosartan mesilate,2050502,1
+2041041000033110,Teveten 600mg tablets (Viatris UK Healthcare Ltd),Eprosartan mesilate,2050502,1
+2145741000033116,Tanatril 20mg tablets (Northumbria Pharma Ltd),Imidapril hydrochloride,2050501,1
+2145841000033114,Imidapril 20mg tablets,Imidapril hydrochloride,2050501,1
+2216141000033115,CoAprovel 150mg/12.5mg tablets (Sanofi),Hydrochlorothiazide/ Irbesartan,2050502,1
+2216241000033110,CoAprovel 300mg/12.5mg tablets (Sanofi),Hydrochlorothiazide/ Irbesartan,2050502,1
+2272641000033119,Telmisartan 20mg tablets,Telmisartan,2050502,1
+2272741000033111,Micardis 20mg tablets (Boehringer Ingelheim Ltd),Telmisartan,2050502,1
+2656341000033110,Captopril 5mg/5ml oral suspension,Captopril,,1
+2719841000033113,Captopril 20mg/5ml oral suspension,Captopril,,1
+2720141000033115,Losartan 100mg tablets,Losartan potassium,2050502,1
+2720241000033110,Cozaar 100mg tablets (Organon Pharma (UK) Ltd),Losartan potassium,2050502,1
+2724541000033115,"Ramipril Titration pack 7 x 2.5 mg, 21 x 5 mg, 7 x 10 mg",,,1
+2724641000033119,Tritace titration pack capsules (Sanofi),,2050501,1
+2739541000033117,Coversyl Plus tablets (Servier Laboratories Ltd),Indapamide/ Perindopril erbumine,2050501,1
+2846641000033111,Coversyl 8mg tablets (Servier Laboratories Ltd),Perindopril erbumine,2050501,1
+2846741000033119,Perindopril erbumine 8mg tablets,Perindopril erbumine,2050501,1
+2864241000033110,MicardisPlus 40mg/12.5mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/ Telmisartan,2050502,1
+2864341000033117,MicardisPlus 80mg/12.5mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/ Telmisartan,2050502,1
+2883341000033118,Ramipril 5mg/5ml oral suspension,Ramipril,,1
+2928341000033114,Tensopril 12.5mg tablets (Teva UK Ltd),Captopril,2050501,1
+2928441000033115,Tensopril 25mg tablets (Teva UK Ltd),Captopril,2050501,1
+2928541000033119,Tensopril 50mg tablets (Teva UK Ltd),Captopril,2050501,1
+2944541000033111,Olmesartan medoxomil 10mg tablets,Olmesartan medoxomil,2050502,1
+2944641000033112,Olmesartan medoxomil 20mg tablets,Olmesartan medoxomil,2050502,1
+2944741000033115,Olmesartan medoxomil 40mg tablets,Olmesartan medoxomil,2050502,1
+2944841000033113,Olmetec 10mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil,2050502,1
+2944941000033117,Olmetec 20mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil,2050502,1
+2945041000033117,Olmetec 40mg tablets (Daiichi Sankyo UK Ltd),Olmesartan medoxomil,2050502,1
+2945841000033112,Ecopace 12.5mg tablets (Advanz Pharma),Captopril,2050501,1
+2945941000033116,Ecopace 25mg tablets (Advanz Pharma),Captopril,2050501,1
+2946041000033114,Ecopace 50mg tablets (Advanz Pharma),Captopril,2050501,1
+2989541000033115,Ramipril 1.25mg tablets,Ramipril,2050501,1
+2989641000033119,Ramipril 2.5mg tablets,Ramipril,2050501,1
+2989741000033111,Ramipril 5mg tablets,Ramipril,2050501,1
+2989841000033118,Ramipril 10mg tablets,Ramipril,2050501,1
+2989941000033114,Tritace 1.25mg tablets (Sanofi),Ramipril,2050501,1
+2990041000033116,Tritace 2.5mg tablets (Sanofi),Ramipril,2050501,1
+2990141000033117,Tritace 5mg tablets (Sanofi),Ramipril,2050501,1
+2990241000033112,Tritace 10mg tablets (Sanofi),Ramipril,2050501,1
+3012741000033115,Captopril 25mg/5ml oral solution,Captopril,,1
+3014741000033111,Trandolapril 4mg capsules,Trandolapril,2050501,1
+3014841000033118,Gopten 4mg capsules (Abbott Laboratories Ltd),Trandolapril,,1
+3136041000033117,Caralpha 10mg/12.5mg tablets (Actavis UK Ltd),Hydrochlorothiazide/ Lisinopril,,1
+3136141000033118,Caralpha 20mg/12.5mg tablets (Actavis UK Ltd),Hydrochlorothiazide/ Lisinopril,,1
+3152141000033115,Lisinopril 5mg/5ml oral suspension,Lisinopril,,1
+3152541000033112,Co-Diovan 160mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/ Valsartan,2050502,1
+3152641000033113,Co-Diovan 160mg/25mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/ Valsartan,2050502,1
+3159741000033111,Lopace 2.5mg capsules (Discovery Pharmaceuticals),Ramipril,2050501,1
+3159841000033118,Lopace 5mg capsules (Discovery Pharmaceuticals),Ramipril,2050501,1
+3159941000033114,Lopace 10mg capsules (Discovery Pharmaceuticals),Ramipril,2050501,1
+3160641000033118,Quinapril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Quinapril hydrochloride,2050501,1
+3160841000033117,Lisinopril 10mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Lisinopril,2050501,1
+3160941000033113,Lisinopril 20mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Lisinopril,2050501,1
+3161141000033116,Irbesartan 150mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Irbesartan,2050502,1
+3161241000033111,Irbesartan 300mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Irbesartan,2050502,1
+3161441000033112,Valsartan 160mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Valsartan,2050502,1
+3161541000033113,Valsartan 160mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/ Valsartan,2050502,1
+3161641000033114,Perindopril erbumine 4mg / Indapamide 1.25mg tablets,Indapamide/ Perindopril erbumine,2050501,1
+3161741000033117,Losartan 50mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Losartan potassium,2050502,1
+3162241000033117,Enalapril 20mg / Hydrochlorothiazide 12.5mg tablets,Enalapril maleate/ Hydrochlorothiazide,2050501,1
+3162641000033119,Telmisartan 40mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Telmisartan,2050502,1
+3162741000033111,Telmisartan 80mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Telmisartan,2050502,1
+3163041000033116,Verapamil 180mg modified-release / Trandolapril 2mg capsules,Trandolapril/ Verapamil hydrochloride,,1
+3163241000033112,Felodipine 5mg modified-release / Ramipril 5mg tablets,Felodipine/ Ramipril,2050501,1
+3163341000033119,Felodipine 2.5mg modified-release / Ramipril 2.5mg tablets,Felodipine/ Ramipril,2050501,1
+3190741000033112,Valsartan 80mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Valsartan,2050502,1
+3190841000033119,Co-Diovan 80mg/12.5mg tablets (Novartis Pharmaceuticals UK Ltd),Hydrochlorothiazide/ Valsartan,2050502,1
+3201341000033115,Valsartan 40mg tablets,Valsartan,2050502,1
+3201441000033114,Diovan 40mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan,2050502,1
+3227241000033111,Candesartan 32mg tablets,Candesartan cilexetil,,1
+3227341000033118,Amias 32mg tablets (Neon Healthcare Ltd),Candesartan cilexetil,,1
+3279241000033117,Enalapril 5mg/5ml oral suspension sugar free,Enalapril maleate,,1
+3279541000033115,Lisicostad 10mg/12.5mg tablets (Genus Pharmaceuticals Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+3279641000033119,Lisicostad 20mg/12.5mg tablets (Genus Pharmaceuticals Ltd),Hydrochlorothiazide/ Lisinopril,2050501,1
+3283141000033118,Quinil 5mg tablets (Tillomed Laboratories Ltd),Quinapril hydrochloride,,1
+3333941000033117,Captopril 8mg/5ml oral suspension,Captopril,,1
+3346841000033117,Losartan 100mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/ Losartan potassium,,1
+3346941000033113,Cozaar-Comp 100mg/25mg tablets (Organon Pharma (UK) Ltd),Hydrochlorothiazide/ Losartan potassium,,1
+3851341000033117,Captopril 3mg/5ml oral solution,Captopril,,1
+3890041000033117,Ramipril Powder For Oral Suspension With Diluent (Kit) 10 mg/5 ml,,,1
+3908941000033112,Olmesartan medoxomil 20mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+3909041000033115,Olmesartan medoxomil 20mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+3909141000033116,Olmetec Plus 20mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+3909241000033111,Olmetec Plus 20mg/25mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+3940841000033110,Captopril 2mg capsules,Captopril,,1
+3995241000033112,Irbesartan 300mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/ Irbesartan,,1
+3995341000033119,CoAprovel 300mg/25mg tablets (Sanofi),Hydrochlorothiazide/ Irbesartan,,1
+4021441000033114,Amlodipine 5mg / Valsartan 80mg tablets,Amlodipine besilate/ Valsartan,2060200,1
+4021541000033110,Amlodipine 5mg / Valsartan 160mg tablets,Amlodipine besilate/ Valsartan,2060200,1
+4021641000033111,Amlodipine 10mg / Valsartan 160mg tablets,Amlodipine besilate/ Valsartan,2060200,1
+4021741000033119,Exforge 5mg/80mg tablets (Novartis Pharmaceuticals UK Ltd),Amlodipine besilate/ Valsartan,2060200,1
+4021841000033112,Exforge 5mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),Amlodipine besilate/ Valsartan,2060200,1
+4021941000033116,Exforge 10mg/160mg tablets (Novartis Pharmaceuticals UK Ltd),Amlodipine besilate/ Valsartan,2060200,1
+4152241000033113,Ramipril 1.25mg/5ml oral suspension,Ramipril,,1
+4153041000033114,Perindopril Oral suspension 8 mg/5 ml,,,1
+4213641000033112,Aliskiren 150mg tablets,Aliskiren hemifumarate,2050503,1
+4213741000033115,Aliskiren 300mg tablets,Aliskiren hemifumarate,2050503,1
+4213841000033113,Rasilez 150mg tablets (Noden Pharma DAC),Aliskiren hemifumarate,2050503,1
+4213941000033117,Rasilez 300mg tablets (Noden Pharma DAC),Aliskiren hemifumarate,2050503,1
+4273241000033118,Olmesartan medoxomil 10mg/5ml oral suspension,Olmesartan medoxomil,,1
+4424741000033110,Losartan 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Losartan potassium,,1
+4424841000033117,Cozaar-Comp 100mg/12.5mg tablets (Organon Pharma (UK) Ltd),Hydrochlorothiazide/ Losartan potassium,,1
+4424941000033113,Valsartan 320mg tablets,Valsartan,,1
+4425041000033113,Diovan 320mg tablets (Novartis Pharmaceuticals UK Ltd),Valsartan,,1
+4453941000033114,Perindopril arginine 2.5mg tablets,Perindopril arginine,2050501,1
+4454041000033111,Perindopril arginine 5mg tablets,Perindopril arginine,2050501,1
+4454141000033110,Perindopril arginine 10mg tablets,Perindopril arginine,2050501,1
+4454241000033115,Coversyl Arginine 2.5mg tablets (Servier Laboratories Ltd),Perindopril arginine,2050501,1
+4454341000033113,Coversyl Arginine 5mg tablets (Servier Laboratories Ltd),Perindopril arginine,2050501,1
+4454441000033119,Coversyl Arginine 10mg tablets (Servier Laboratories Ltd),Perindopril arginine,2050501,1
+4454541000033118,Perindopril arginine 5mg / Indapamide 1.25mg tablets,Indapamide/ Perindopril arginine,2050501,1
+4454641000033117,Coversyl Arginine Plus 5mg/1.25mg tablets (Servier Laboratories Ltd),Indapamide/ Perindopril arginine,2050501,1
+4548741000033111,Telmisartan 80mg / Hydrochlorothiazide 25mg tablets,Hydrochlorothiazide/ Telmisartan,,1
+4548841000033118,MicardisPlus 80mg/25mg tablets (Boehringer Ingelheim Ltd),Hydrochlorothiazide/ Telmisartan,,1
+4805941000033114,Ramipril 2.5mg/5ml oral suspension,Ramipril,,1
+4954341000033111,Irbesartan 300mg/5ml oral suspension,Irbesartan,,1
+4957541000033114,Losartan 12.5mg tablets,Losartan potassium,,1
+4957641000033110,Cozaar 12.5mg tablets (Organon Pharma (UK) Ltd),Losartan potassium,,1
+5005841000033114,Olmesartan medoxomil 20mg / Amlodipine 5mg tablets,Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5005941000033118,Olmesartan medoxomil 40mg / Amlodipine 5mg tablets,Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5006041000033111,Olmesartan medoxomil 40mg / Amlodipine 10mg tablets,Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5006141000033110,Sevikar 20mg/5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5006241000033115,Sevikar 40mg/5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5006341000033113,Sevikar 40mg/10mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Olmesartan medoxomil,2050502,1
+5008141000033111,Captopril 10mg/5ml oral suspension,Captopril,,1
+5132041000033112,Captopril 25mg/5ml oral suspension,Captopril,,1
+5149941000033118,Losartan 2.5mg/ml oral suspension sugar free,Losartan potassium,2050502,1
+5150041000033110,Cozaar 2.5mg/ml oral suspension (Organon Pharma (UK) Ltd),Losartan potassium,2050502,1
+5401641000033118,Captopril 15mg/5ml oral suspension,Captopril,,1
+5454041000033117,Captopril 4mg capsules,Captopril,,1
+5566341000033111,Olmesartan medoxomil 40mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Olmesartan medoxomil,,1
+5566441000033117,Olmetec Plus 40mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Hydrochlorothiazide/ Olmesartan medoxomil,,1
+5568741000033113,Lisinopril 40mg/5ml oral suspension,Lisinopril,,1
+5595341000033117,Captopril Oral Suspension Sugar Free 2 mg/ml,,,1
+5887841000033118,Ramipril 10mg/5ml oral solution,Ramipril,,1
+5887941000033114,Ramipril 10mg/5ml oral suspension,Ramipril,,1
+5888241000033116,Perindopril Oral suspension 4 mg/5 ml,,,1
+5890241000033117,Lisinopril 5mg/5ml oral solution,Lisinopril,,1
+5890341000033110,Ramipril 5mg/5ml oral solution,Ramipril,,1
+5890541000033115,Ramipril 2.5mg/5ml oral solution,Ramipril,,1
+5898741000033114,Captopril 12.5mg/5ml oral solution,Captopril,,1
+5898841000033116,Captopril 12.5mg/5ml oral suspension,Captopril,,1
+5898941000033112,Captopril 6.25mg/5ml oral solution,Captopril,,1
+5899041000033115,Captopril 6.25mg/5ml oral suspension,Captopril,,1
+5967041000033117,Enalapril 10mg/5ml oral solution,Enalapril maleate,,1
+5967141000033118,Enalapril 10mg/5ml oral suspension,Enalapril maleate,,1
+5970641000033117,Irbesartan 150mg/5ml oral suspension,Irbesartan,,1
+5971341000033117,Lisinopril 2.5mg/5ml oral solution,Lisinopril,,1
+5971441000033111,Lisinopril 2.5mg/5ml oral suspension,Lisinopril,,1
+5971541000033112,Lisinopril 7.5mg/5ml oral solution,Lisinopril,,1
+5971641000033113,Lisinopril 7.5mg/5ml oral suspension,Lisinopril,,1
+5971741000033116,Losartan 100mg/5ml oral solution,Losartan potassium,,1
+5971841000033114,Losartan 100mg/5ml oral suspension,Losartan potassium,,1
+5971941000033118,Losartan 50mg/5ml oral solution,Losartan potassium,,1
+5972041000033112,Losartan 50mg/5ml oral suspension,Losartan potassium,,1
+5992541000033111,Enalapril 5mg/5ml oral solution,Enalapril maleate,,1
+5992641000033112,Enalapril 5mg/5ml oral suspension,Enalapril maleate,,1
+5997541000033113,Perindopril Oral solution 8 mg/5 ml,,,1
+5998241000033112,Ramipril 1.25mg/5ml oral solution,Ramipril,,1
+6001041000033115,Captopril 5mg/5ml oral solution,Captopril,,1
+6012441000033118,Enalapril 1.25mg/5ml oral solution,Enalapril maleate,,1
+6012541000033117,Enalapril 1.25mg/5ml oral suspension,Enalapril maleate,,1
+6044541000033115,Lisinopril 20mg/5ml oral suspension,Lisinopril,,1
+6044641000033119,Lisinopril 20mg/5ml oral solution,Lisinopril,,1
+6180641000033112,Sevikar HCT 20mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+6180741000033115,Sevikar HCT 40mg/5mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+6180841000033113,Sevikar HCT 40mg/10mg/12.5mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+6180941000033117,Sevikar HCT 40mg/5mg/25mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+6181041000033110,Sevikar HCT 40mg/10mg/25mg tablets (Daiichi Sankyo UK Ltd),Amlodipine besilate/ Hydrochlorothiazide/ Olmesartan medoxomil,2050502,1
+6435741000033117,Irbesartan 37.5mg oral powder sachets,Irbesartan,,1
+6515441000033113,Valsartan 80mg tablets,Valsartan,,1
+6515541000033114,Valsartan 160mg tablets,Valsartan,,1
+6517041000033110,Ramipril 2.5mg/5ml oral solution sugar free,Ramipril,,1
+6528441000033113,Valsartan 3mg/ml oral solution,Valsartan,,1
+6528541000033114,Diovan 3mg/1ml oral solution (Novartis Pharmaceuticals UK Ltd),Valsartan,,1
+7754841000033119,Azilsartan medoxomil 20mg tablets,Azilsartan medoxomil,2050502,1
+7754941000033110,Azilsartan medoxomil 40mg tablets,Azilsartan medoxomil,2050502,1
+7755041000033110,Azilsartan medoxomil 80mg tablets,Azilsartan medoxomil,2050502,1
+7755141000033114,Edarbi 20mg tablets (Takeda UK Ltd),Azilsartan medoxomil,2050502,1
+7755241000033119,Edarbi 40mg tablets (Takeda UK Ltd),Azilsartan medoxomil,2050502,1
+7755341000033112,Edarbi 80mg tablets (Takeda UK Ltd),Azilsartan medoxomil,2050502,1
+8263341000033116,Perindopril tosilate 2.5mg tablets,Perindopril tosilate,,1
+8263441000033110,Perindopril tosilate 5mg tablets,Perindopril tosilate,,1
+8263541000033111,Perindopril tosilate 10mg tablets,Perindopril tosilate,,1
+8263641000033112,Perindopril tosilate 5mg / Indapamide 1.25mg tablets,Indapamide/ Perindopril tosilate,,1
+8264941000033119,Triapin 2.5mg/2.5mg modified-release tablets (Sanofi),Felodipine/ Ramipril,2050501,1
+8275941000033110,Perindopril erbumine 8mg/5ml oral solution,Perindopril erbumine,,1
+8276041000033117,Perindopril erbumine 4mg/5ml oral suspension,Perindopril erbumine,,1
+8276141000033118,Perindopril erbumine 8mg/5ml oral suspension,Perindopril erbumine,,1
+8554141000033116,Ifirmasta 75mg tablets (Consilient Health Ltd),Irbesartan,,1
+8554241000033111,Ifirmasta 150mg tablets (Consilient Health Ltd),Irbesartan,,1
+8554341000033118,Ifirmasta 300mg tablets (Consilient Health Ltd),Irbesartan,,1
+8869441000033119,Perindopril erbumine 4mg/5ml oral solution,Perindopril erbumine,,1
+8961241000033112,Noyada 5mg/5ml oral solution (Martindale Pharmaceuticals Ltd),Captopril,2050501,1
+8961341000033119,Noyada 25mg/5ml oral solution (Martindale Pharmaceuticals Ltd),Captopril,2050501,1
+9105241000033114,Perindopril erbumine 4mg / Amlodipine 5mg tablets,Amlodipine besilate/ Perindopril erbumine,,1
+9105341000033116,Perindopril erbumine 4mg / Amlodipine 10mg tablets,Amlodipine besilate/ Perindopril erbumine,,1
+9105441000033110,Perindopril erbumine 8mg / Amlodipine 5mg tablets,Amlodipine besilate/ Perindopril erbumine,,1
+9105541000033111,Perindopril erbumine 8mg / Amlodipine 10mg tablets,Amlodipine besilate/ Perindopril erbumine,,1
+9108041000033111,Captopril 25mg/5ml oral solution sugar free,Captopril,2050501,1
+9108141000033110,Captopril 5mg/5ml oral solution sugar free,Captopril,2050501,1
+9159341000033112,Actelsar HCT 40mg/12.5mg tablets (Actavis UK Ltd),Hydrochlorothiazide/ Telmisartan,,1
+9159441000033118,Actelsar HCT 80mg/12.5mg tablets (Actavis UK Ltd),Hydrochlorothiazide/ Telmisartan,,1
+9159541000033117,Actelsar HCT 80mg/25mg tablets (Accord Healthcare Ltd),Hydrochlorothiazide/ Telmisartan,,1
+9209341000033116,Tolura 20mg tablets (Consilient Health Ltd),Telmisartan,,1
+9209541000033111,Tolura 80mg tablets (Consilient Health Ltd),Telmisartan,,1
+9292641000033116,Tolucombi 40mg/12.5mg tablets (Consilient Health Ltd),Hydrochlorothiazide/ Telmisartan,,1
+9292741000033113,Tolucombi 80mg/12.5mg tablets (Consilient Health Ltd),Hydrochlorothiazide/ Telmisartan,,1
+10645041000033114,Lisinopril 5mg/5ml oral solution sugar free,Lisinopril,,1
+10943641000033117,Sacubitril 24mg / Valsartan 26mg tablets,Sacubitril/ Valsartan,2050502,1
+10943741000033114,Sacubitril 49mg / Valsartan 51mg tablets,Sacubitril/ Valsartan,2050502,1
+10943841000033116,Sacubitril 97mg / Valsartan 103mg tablets,Sacubitril/ Valsartan,2050502,1
+10943941000033112,Entresto 24mg/26mg tablets (Novartis Pharmaceuticals UK Ltd),Sacubitril/ Valsartan,2050502,1
+10944041000033114,Entresto 49mg/51mg tablets (Novartis Pharmaceuticals UK Ltd),Sacubitril/ Valsartan,2050502,1
+10944141000033113,Entresto 97mg/103mg tablets (Novartis Pharmaceuticals UK Ltd),Sacubitril/ Valsartan,2050502,1
+13443441000033115,Lisoretic 10mg/12.5mg tablets (Bristol Laboratories Ltd),Hydrochlorothiazide/ Lisinopril,,1
+13443541000033119,Lisoretic 20mg/12.5mg tablets (Bristol Laboratories Ltd),Hydrochlorothiazide/ Lisinopril,,1
+13740241000033119,Enalapril 20mg tablets (Imported),Enalapril maleate,,1

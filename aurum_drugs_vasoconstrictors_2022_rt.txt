@@ -1,0 +1,39 @@
+prodcodeid,termfromemis,drugsubstancename,bnfchapter,vasocon
+525841000033117,Ephedrine 15mg/5ml elixir,Ephedrine hydrochloride,,1
+528441000033111,Ephedrine 30mg/1ml solution for injection ampoules,Ephedrine hydrochloride,2070200,1
+530141000033116,Ephedrine 0.5% nasal drops,Ephedrine hydrochloride,12020200,1
+530241000033111,Ephedrine 1% nasal drops,Ephedrine hydrochloride,12020200,1
+530341000033118,Ephedrine 0.25% nasal drops,Ephedrine hydrochloride,,1
+532241000033110,Ephedrine hydrochloride 15mg tablets,Ephedrine hydrochloride,3010102,1
+532341000033117,Ephedrine hydrochloride 30mg tablets,Ephedrine hydrochloride,3010102,1
+532441000033111,Ephedrine Hydrochloride Tablets 60 mg,,,1
+615341000033114,Franol tablets (Sanofi),Ephedrine hydrochloride/ Theophylline,3090200,1
+615441000033115,Franol Plus tablets (Sanofi),Ephedrine sulfate/ Theophylline,3090200,1
+663141000033113,Haymine tablets (Chemidex Pharma Ltd),Chlorphenamine maleate/ Ephedrine hydrochloride,3090200,1
+778241000033112,Isopto Frin 0.12% eye drops (Alcon Eye Care UK Ltd),Phenylephrine hydrochloride,11080100,1
+885641000033114,Metaraminol 10mg/1ml solution for injection ampoules,Metaraminol tartrate,2070200,1
+909341000033113,Minims phenylephrine hydrochloride 10% eye drops 0.5ml unit dose (Bausch & Lomb UK Ltd),Phenylephrine hydrochloride,11050000,1
+909441000033119,Minims phenylephrine hydrochloride 2.5% eye drops 0.5ml unit dose (Bausch & Lomb UK Ltd),Phenylephrine hydrochloride,11050000,1
+1072341000033118,Phenylephrine 10% eye drops,Phenylephrine hydrochloride,11050000,1
+1072541000033113,Phenylephrine 2.5% eye drops 0.5ml unit dose preservative free,Phenylephrine hydrochloride,11050000,1
+1073041000033112,Phenylephrine Injection 1 % Injection 10 mg/ml,,,1
+1074341000033112,Phenylephrine 10mg/1ml solution for injection ampoules,Phenylephrine hydrochloride,,1
+2644441000033111,Gutron 5mg tablets (Imported (Denmark)),Midodrine hydrochloride,,1
+2710741000033114,Ephedrine 30mg/10ml solution for injection ampoules,Ephedrine hydrochloride,2070200,1
+2721741000033114,Gutron 2.5mg tablets (Imported (Denmark)),Midodrine hydrochloride,,1
+2907541000033113,Midodrine 5mg tablets,Midodrine hydrochloride,2070200,1
+2907641000033114,Midodrine 2.5mg tablets,Midodrine hydrochloride,2070200,1
+2918741000033116,Phenylephrine 10% eye drops 0.5ml unit dose preservative free,Phenylephrine hydrochloride,11050000,1
+2921441000033114,Phenylephrine 0.12% eye drops,Phenylephrine hydrochloride,11080100,1
+2971341000033119,Sudafed Non-Drowsy Dual Relief capsules (McNeil Products Ltd),Caffeine/ Paracetamol/ Phenylephrine hydrochloride,3090200,1
+3096641000033110,Lidocaine 5% / Phenylephrine 0.5% nasal spray,Lidocaine hydrochloride/ Phenylephrine hydrochloride,15020000,1
+3851141000033115,Ephedrine 4mg/5ml oral solution sugar free,Ephedrine hydrochloride,3090200,1
+4806441000033113,Ephedrine 30mg/10ml solution for injection pre-filled syringes,Ephedrine hydrochloride,,1
+7680841000033113,Mydriasert 5.4mg/0.28mg ophthalmic inserts (Thea Pharmaceuticals Ltd),Phenylephrine hydrochloride/ Tropicamide,11050000,1
+10589441000033116,Bramox 2.5mg tablets (Brancaster Pharma Ltd),Midodrine hydrochloride,2070200,1
+10589541000033115,Bramox 5mg tablets (Brancaster Pharma Ltd),Midodrine hydrochloride,2070200,1
+12496141000033117,Ibuprofen 200mg / Phenylephrine 6.1mg tablets,Ibuprofen/ Phenylephrine,,1
+12604641000033119,Midotense 2.5mg tablets (Transdermal Ltd),Midodrine hydrochloride,,1
+12910041000033116,Ephedrine hydrochloride 15mg / Chlorphenamine 10mg tablets,Chlorphenamine maleate/ Ephedrine hydrochloride,3090200,1
+13888441000033114,Midodrine 10mg tablets,Midodrine hydrochloride,,1
+13888541000033110,Bramox 10mg tablets (Brancaster Pharma Ltd),Midodrine hydrochloride,,1

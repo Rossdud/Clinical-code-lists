@@ -1,0 +1,467 @@
+prodcodeid,termfromemis,drugsubstancename,bnfchapter,nsaid
+2941000033113,Acemetacin 60mg capsules,Acemetacin,10010100,1
+12041000033110,Aceclofenac 100mg tablets,Aceclofenac,10010100,1
+80741000033114,Arthrotec 50 gastro-resistant tablets (Pfizer Ltd),Diclofenac sodium/ Misoprostol,10010100,1
+80941000033112,Arthrotec 75 gastro-resistant tablets (Pfizer Ltd),Diclofenac sodium/ Misoprostol,10010100,1
+81641000033113,Arthrofen 200 tablets (Ashbourne Pharmaceuticals Ltd),Ibuprofen,10010100,1
+81741000033116,Arthrofen 400 tablets (Ashbourne Pharmaceuticals Ltd),Ibuprofen,10010100,1
+81841000033114,Arthrofen 600 tablets (Ashbourne Pharmaceuticals Ltd),Ibuprofen,10010100,1
+81941000033118,Arthrosin 250 tablets (Ashbourne Pharmaceuticals Ltd),Naproxen,,1
+82041000033112,Arthrosin 500 tablets (Ashbourne Pharmaceuticals Ltd),Naproxen,,1
+82841000033117,Aspirin 300mg dispersible tablets,Aspirin,10010100,1
+83141000033116,Aspirin 300mg gastro-resistant tablets,Aspirin,10010100,1
+86641000033119,Aspirin 300mg tablets,Aspirin,10010100,1
+97041000033114,Azapropazone 300mg capsules,Azapropazone,,1
+99041000033117,Azapropazone 600mg tablets,Azapropazone,,1
+138141000033114,Benoral 2g granules sachets (Sanofi-Synthelabo Ltd),Benorilate,,1
+138241000033119,Benorilate 2g granules sachets sugar free,Benorilate,,1
+139941000033118,Benoral 2g/5ml oral suspension (Sanofi-Synthelabo Ltd),Benorilate,,1
+142341000033111,Benoral 750mg tablets (Sanofi-Synthelabo Ltd),Benorilate,,1
+157841000033115,Brufen 600mg effervescent granules sachets (Viatris UK Healthcare Ltd),Ibuprofen,10010100,1
+159441000033110,Brufen Retard 800mg tablets (Viatris UK Healthcare Ltd),Ibuprofen,10010100,1
+161341000033113,Brufen 100mg/5ml syrup (Viatris UK Healthcare Ltd),Ibuprofen,10010100,1
+162841000033113,Brufen 200mg tablets (Abbott Laboratories Ltd),Ibuprofen,10010100,1
+162941000033117,Brufen 400mg tablets (Viatris UK Healthcare Ltd),Ibuprofen,10010100,1
+163041000033110,Brufen 600mg tablets (Viatris UK Healthcare Ltd),Ibuprofen,10010100,1
+173141000033119,Butacote 100mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd),Phenylbutazone,,1
+286341000033119,Clinoril 100mg tablets (Organon Pharma (UK) Ltd),Sulindac,,1
+286441000033113,Clinoril 200mg tablets (Organon Pharma (UK) Ltd),Sulindac,,1
+336741000033117,Codafen Continus tablets (Napp Pharmaceuticals Ltd),Codeine phosphate/ Ibuprofen,,1
+371041000033112,Co-codaprin 8mg/400mg dispersible tablets,Aspirin/ Codeine phosphate,10010100,1
+419641000033118,Deep Relief gel (The Mentholatum Company Ltd),Ibuprofen/ Levomenthol,10030200,1
+441941000033116,Diclofenac 50mg dispersible tablets sugar free,Diclofenac sodium,10010100,1
+442141000033114,Diclofenac sodium 75mg gastro-resistant modified-release capsules,Diclofenac sodium,10010100,1
+442241000033119,Diclofenac + Misoprostol E/c tablets,,,1
+444041000033115,Diclofenac 0.1% eye drops,Diclofenac sodium,11080200,1
+444241000033111,Diclofenac diethylammonium 1.16% gel,Diclofenac diethylammonium,10030200,1
+450341000033114,Diclofenac 75mg/3ml solution for injection ampoules,Diclofenac sodium,10010100,1
+451541000033113,Diclofenac sodium 75mg modified-release tablets,Diclofenac sodium,10010100,1
+452241000033117,Diclomax Retard 100mg capsules (Galen Ltd),Diclofenac sodium,10010100,1
+453341000033119,Diclofenac sodium 100mg modified-release capsules,Diclofenac sodium,10010100,1
+453441000033113,Diclomax SR 75mg capsules (Galen Ltd),Diclofenac sodium,10010100,1
+453541000033114,Diclofenac sodium 75mg modified-release capsules,Diclofenac sodium,10010100,1
+456841000033119,Diclofenac 12.5mg suppositories,Diclofenac sodium,10010100,1
+459741000033116,Diclofenac 25mg suppositories,Diclofenac sodium,10010100,1
+459841000033114,Diclofenac 50mg suppositories,Diclofenac sodium,10010100,1
+460141000033116,Diclofenac 100mg suppositories,Diclofenac sodium,10010100,1
+462341000033117,Diclozip 25mg gastro-resistant tablets (Ashbourne Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+462441000033111,Diclozip 50mg gastro-resistant tablets (Ashbourne Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+463141000033110,Dicloflex 25mg gastro-resistant tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+463241000033115,Dicloflex 50mg gastro-resistant tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+467041000033116,Diclofenac sodium 100mg modified-release tablets,Diclofenac sodium,10010100,1
+467141000033117,Diclofenac Sodium Tablets 25 mg,,,1
+467241000033112,Diclofenac Sodium Tablets 50 mg,,,1
+467841000033111,Diflunisal 250mg tablets,Diflunisal,,1
+467941000033115,Diflunisal 500mg tablets,Diflunisal,,1
+481041000033114,Dolobid 250mg tablets (Organon Pharma (UK) Ltd),Diflunisal,,1
+481141000033113,Dolobid 500mg tablets (Organon Pharma (UK) Ltd),Diflunisal,,1
+491841000033115,Dysman 250 capsules (Ashbourne Pharmaceuticals Ltd),Mefenamic acid,,1
+491941000033111,Dysman 500 tablets (Ashbourne Pharmaceuticals Ltd),Mefenamic acid,10010100,1
+509941000033118,Emflex 60mg capsules (Merck Serono Ltd),Acemetacin,10010100,1
+546941000033116,Etodolac 300mg capsules,Etodolac,10010100,1
+547241000033111,Etodolac 200mg capsules,Etodolac,,1
+548541000033114,Etodolac 600mg modified-release tablets,Etodolac,10010100,1
+550341000033119,Etodolac Tablets 200 mg,,,1
+563841000033112,Feldene 10mg capsules (Pfizer Ltd),Piroxicam,10010100,1
+563941000033116,Feldene 20 capsules (Pfizer Ltd),Piroxicam,10010100,1
+564041000033119,Fenbid 300mg Spansules (Mercury Pharma Group Ltd),Ibuprofen,,1
+564141000033115,Fenbufen 300mg capsules,Fenbufen,,1
+565941000033117,Feldene 10mg dispersible tablets (Pfizer Ltd),Piroxicam,,1
+566041000033110,Feldene 20mg dispersible tablets (Pfizer Ltd),Piroxicam,,1
+566341000033112,Fenbufen Effervescent tablets 450 mg,,,1
+566941000033111,Fenbid 5% gel (Advanz Pharma),Ibuprofen,10030200,1
+567041000033112,Feldene 0.5% gel (Pfizer Ltd),Piroxicam,10030200,1
+567241000033116,Feldene IM 20mg/1ml solution for injection ampoules (Pfizer Ltd),Piroxicam,,1
+567941000033113,Fenoket 200mg modified-release capsules (Opus Pharmaceuticals Ltd),Ketoprofen,,1
+569841000033110,Feldene 20mg suppositories (Pfizer Ltd),Piroxicam,,1
+570341000033116,Fenbufen 300mg tablets,Fenbufen,,1
+570441000033110,Fenoprofen Tablets 200 mg,,,1
+570541000033111,Fenoprofen 300mg tablets,Fenoprofen calcium,10010100,1
+570641000033112,Fenoprofen 600mg tablets,Fenoprofen calcium,10010100,1
+570741000033115,Fenopron 300 tablets (Typharm Ltd),Fenoprofen calcium,10010100,1
+570841000033113,Fenopron 600 tablets (Typharm Ltd),Fenoprofen calcium,10010100,1
+571741000033113,Feldene Melt 20mg tablets (Pfizer Ltd),Piroxicam,10010100,1
+574141000033111,Fenbufen 450mg tablets,Fenbufen,,1
+577741000033116,Flurbiprofen 200mg modified-release capsules,Flurbiprofen,,1
+588641000033115,Flamrase SR 100mg tablets (Teva UK Ltd),Diclofenac sodium,10010100,1
+589941000033117,Flurbiprofen 0.03% eye drops 0.4ml unit dose preservative free,Flurbiprofen sodium,11080200,1
+592141000033110,Flurbiprofen 100mg suppositories,Flurbiprofen,,1
+593941000033118,Flurbiprofen 100mg tablets,Flurbiprofen,10010100,1
+594041000033116,Flurbiprofen 50mg tablets,Flurbiprofen,10010100,1
+595941000033119,Flexin-75 Continus tablets (Napp Pharmaceuticals Ltd),Indometacin,,1
+596241000033116,Flexin-50 Continus tablets (Napp Pharmaceuticals Ltd),Indometacin,,1
+596341000033114,Flexin-25 Continus tablets (Napp Pharmaceuticals Ltd),Indometacin,,1
+609441000033115,Froben SR 200mg capsules (Abbott Laboratories Ltd),Flurbiprofen,,1
+614241000033115,Froben 100mg suppositories (Abbott Laboratories Ltd),Flurbiprofen,,1
+614441000033119,Froben 100mg tablets (Abbott Laboratories Ltd),Flurbiprofen,,1
+614541000033118,Froben 50mg tablets (Abbott Laboratories Ltd),Flurbiprofen,,1
+746341000033116,Ibuprofen Capsules 300 mg,,,1
+746441000033110,Ibuprofen 5% cream,Ibuprofen,10030200,1
+746541000033111,Ibuprofen 800mg tablets,Ibuprofen,,1
+746641000033112,Ibugel 5% gel (Dermal Laboratories Ltd),Ibuprofen,10030200,1
+746741000033115,Ibuprofen 5% gel,Ibuprofen,10030200,1
+746841000033113,Ibuprofen 600mg effervescent granules sachets,Ibuprofen,10010100,1
+746941000033117,Ibuprofen 800mg modified-release tablets,Ibuprofen,10010100,1
+747041000033116,Ibuspray 5% spray (Dermal Laboratories Ltd),Ibuprofen,10030200,1
+747141000033117,Ibuprofen 5% spray,Ibuprofen,10030200,1
+747241000033112,Ibuprofen Syrup 100 mg/5 ml,,,1
+747341000033119,Ibuprofen 200mg tablets,Ibuprofen,10010100,1
+747441000033113,Ibuprofen 400mg tablets,Ibuprofen,10010100,1
+747541000033114,Ibuprofen 600mg tablets,Ibuprofen,10010100,1
+756841000033110,Indocid 25mg capsules (Organon Pharma (UK) Ltd),Indometacin,,1
+756941000033119,Indocid 50mg capsules (Organon Pharma (UK) Ltd),Indometacin,,1
+757041000033118,Indocid R 75mg capsules (Organon Pharma (UK) Ltd),Indometacin,,1
+757241000033114,Indolar SR 75mg capsules (Sandoz Ltd),Indometacin,10010100,1
+757341000033116,Indomod 25mg modified-release capsules (Pfizer Ltd),Indometacin,,1
+757441000033110,Indomod 75mg modified-release capsules (Pfizer Ltd),Indometacin,10010100,1
+767741000033111,Indomax 75 SR capsules (Ashbourne Pharmaceuticals Ltd),Indometacin,10010100,1
+767841000033118,Indocid 100mg suppositories (Aspen Pharma Trading Ltd),Indometacin,,1
+767941000033114,Indocid 5mg/ml oral suspension (Organon Pharma (UK) Ltd),Indometacin,,1
+797241000033119,Ketoprofen 100mg capsules,Ketoprofen,10010100,1
+797341000033112,Ketoprofen Capsules 200 mg,,,1
+797441000033118,Ketoprofen 50mg capsules,Ketoprofen,10010100,1
+797841000033115,Ketoprofen 100mg modified-release capsules,Ketoprofen,10010100,1
+797941000033111,Ketoprofen 200mg modified-release capsules,Ketoprofen,10010100,1
+798841000033119,Ketoprofen 2.5% gel,Ketoprofen,10030200,1
+800841000033116,Ketoprofen 100mg/2ml solution for injection ampoules,Ketoprofen,,1
+801541000033112,Ketoprofen 150mg modified-release capsules,Ketoprofen,10010100,1
+801641000033113,Ketovail 100mg modified-release capsules (Teva UK Ltd),Ketoprofen,10010100,1
+801741000033116,Ketovail 200mg modified-release capsules (Teva UK Ltd),Ketoprofen,10010100,1
+801841000033114,Ketocid 200 modified-release capsules (Chiesi Ltd),Ketoprofen,10010100,1
+801941000033118,Ketozip 200 XL capsules (Ashbourne Pharmaceuticals Ltd),Ketoprofen,10010100,1
+803041000033115,Ketoprofen 100mg suppositories,Ketoprofen,10010100,1
+819641000033114,Lederfen 300mg capsules (Mercury Pharma Group Ltd),Fenbufen,,1
+825041000033111,Lederfen 450mg tablets (Mercury Pharma Group Ltd),Fenbufen,,1
+825341000033113,Lederfen 300mg tablets (Mercury Pharma Group Ltd),Fenbufen,,1
+845041000033113,Lodine SR 600mg tablets (Almirall Ltd),Etodolac,10010100,1
+845241000033117,Lofensaid Retard 100 tablets (Opus Pharmaceuticals Ltd),Diclofenac sodium,,1
+845341000033110,Lofensaid Retard 75 tablets (Opus Pharmaceuticals Ltd),Diclofenac sodium,,1
+852141000033115,Lofensaid 25mg gastro-resistant tablets (Opus Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+852241000033110,Lofensaid 50mg gastro-resistant tablets (Opus Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+872641000033110,Mefenamic acid 250mg capsules,Mefenamic acid,10010100,1
+874641000033117,Mefenamic Acid Dispersible tablets 250 mg,,,1
+889141000033118,Mefenamic Acid Paediatric suspension 50 mg/5 ml,,,1
+892641000033116,Meloxicam 15mg suppositories,Meloxicam,,1
+895741000033116,Mefenamic acid 500mg tablets,Mefenamic acid,10010100,1
+899241000033112,Meloxicam 15mg tablets,Meloxicam,10010100,1
+899341000033119,Meloxicam 7.5mg tablets,Meloxicam,10010100,1
+930441000033118,Motifene 75mg modified-release capsules (Daiichi Sankyo UK Ltd),Diclofenac sodium,10010100,1
+934441000033113,Mobic 15mg suppositories (Boehringer Ingelheim Ltd),Meloxicam,,1
+938341000033110,Mobic 15mg tablets (Boehringer Ingelheim Ltd),Meloxicam,,1
+938441000033116,Mobic 7.5mg tablets (Boehringer Ingelheim Ltd),Meloxicam,,1
+939041000033117,Mobiflex 20mg tablets (Viatris UK Healthcare Ltd),Tenoxicam,10010100,1
+939741000033119,Motrin 400mg tablets (Pfizer Ltd),Ibuprofen,10010100,1
+939841000033112,Motrin 600mg tablets (Pfizer Ltd),Ibuprofen,10010100,1
+939941000033116,Motrin 800mg tablets (Pfizer Ltd),Ibuprofen,,1
+949641000033112,Naproxen 250mg gastro-resistant tablets,Naproxen,10010100,1
+949741000033115,Naproxen 500mg gastro-resistant tablets,Naproxen,10010100,1
+949841000033113,Naprosyn EC 250mg tablets (Atnahs Pharma UK Ltd),Naproxen,10010100,1
+949941000033117,Naprosyn EC 375mg tablets (Atnahs Pharma UK Ltd),Naproxen,10010100,1
+950041000033114,Naprosyn EC 500mg tablets (Atnahs Pharma UK Ltd),Naproxen,10010100,1
+950141000033113,Naproxen 375mg gastro-resistant tablets,Naproxen,10010100,1
+950341000033111,Naproxen Granules 500 mg,,,1
+952841000033115,Naproxen M/R tablets 375 mg,,,1
+952941000033111,Naproxen 500mg modified-release tablets,Naproxen sodium,,1
+953041000033118,Naprosyn S/R 500mg tablets (Roche Products Ltd),Naproxen sodium,,1
+953841000033113,Naproxen 500mg suppositories,Naproxen,,1
+954041000033115,Naprosyn 500mg suppositories (Roche Products Ltd),Naproxen,,1
+954141000033116,Naprosyn 125mg/5ml oral suspension (Roche Products Ltd),Naproxen,,1
+954241000033111,Naproxen 125mg/5ml oral suspension,Naproxen,,1
+954341000033118,Nabumetone Suspension Sugar Free 500 mg/5 ml,,,1
+954441000033112,Napratec OP tablets (Pfizer Ltd),,10010100,1
+954841000033110,Naprosyn 250mg tablets (Atnahs Pharma UK Ltd),Naproxen,10010100,1
+954941000033119,Naprosyn 500mg tablets (Atnahs Pharma UK Ltd),Naproxen,10010100,1
+955041000033119,Naproxen 250mg tablets,Naproxen,10010100,1
+955141000033115,Naproxen 500mg tablets,Naproxen,10010100,1
+956241000033115,Nabumetone 500mg tablets,Nabumetone,10010100,1
+956441000033119,Naproxen sodium 275mg tablets,Naproxen sodium,,1
+956941000033112,Naproxen Tablets 375 mg,,,1
+994741000033112,Nycopren 250mg gastro-resistant tablets (Ardern Healthcare Ltd),Naproxen,10010100,1
+994841000033119,Nycopren 500mg gastro-resistant tablets (Ardern Healthcare Ltd),Naproxen,10010100,1
+998241000033113,Ocufen 0.03% eye drops 0.4ml unit dose (Allergan Ltd),Flurbiprofen sodium,11080200,1
+1010141000033111,Orudis 100mg capsules (Sanofi),Ketoprofen,10010100,1
+1010241000033116,Orudis 50mg capsules (Sanofi),Ketoprofen,10010100,1
+1010341000033114,Oruvail 100 modified-release capsules (Sanofi),Ketoprofen,10010100,1
+1012141000033112,Oruvail 2.5% gel (Sanofi),Ketoprofen,10030200,1
+1012641000033119,Oruvail IM 100mg/2ml solution for injection ampoules (Sanofi),Ketoprofen,,1
+1013741000033118,Oruvail 150 modified-release capsules (Sanofi),Ketoprofen,10010100,1
+1013841000033111,Oruvail 200 modified-release capsules (Sanofi),Ketoprofen,10010100,1
+1015741000033119,Orudis 100mg suppositories (Sanofi),Ketoprofen,10010100,1
+1082041000033110,Phenylbutazone 100mg tablets,Phenylbutazone,,1
+1082241000033119,Phenylbutazone 200mg tablets,Phenylbutazone,,1
+1083241000033114,Pirozip 10 capsules (Ashbourne Pharmaceuticals Ltd),Piroxicam,,1
+1083341000033116,Pirozip 20 capsules (Ashbourne Pharmaceuticals Ltd),Piroxicam,,1
+1083441000033110,Piroxicam 10mg capsules,Piroxicam,10010100,1
+1083541000033111,Piroxicam 20mg capsules,Piroxicam,10010100,1
+1084541000033113,Piroxicam 10mg dispersible tablets,Piroxicam,10010100,1
+1084641000033114,Piroxicam 20mg dispersible tablets,Piroxicam,10010100,1
+1086541000033118,Piroxicam 0.5% gel,Piroxicam,10030200,1
+1086641000033117,Piroxicam 20mg/1ml solution for injection ampoules,Piroxicam,,1
+1088641000033118,Piroxicam 20mg orodispersible tablets sugar free,Piroxicam,10010100,1
+1089541000033114,Piroxicam Sports gel 0.5 %,,,1
+1089941000033115,Piroxicam 20mg suppositories,Piroxicam,,1
+1096241000033119,Ponstan 250mg capsules (Chemidex Pharma Ltd),Mefenamic acid,10010100,1
+1102841000033114,Powergel 2.5% gel (A. Menarini Farmaceutica Internazionale SRL),Ketoprofen,10030200,1
+1109541000033115,Ponstan Forte 500mg tablets (Chemidex Pharma Ltd),Mefenamic acid,10010100,1
+1113041000033114,Proflex 5% cream (Novartis Consumer Health UK Ltd),Ibuprofen,10030200,1
+1136241000033118,Preservex 100mg tablets (Almirall Ltd),Aceclofenac,10010100,1
+1164641000033119,Relifex 500mg tablets (Viatris UK Healthcare Ltd),Nabumetone,10010100,1
+1168041000033116,Rheumox 300mg capsules (Mercury Pharma Group Ltd),Azapropazone,,1
+1168141000033117,Rheumacin LA 75mg capsules (Hillcross Pharmaceuticals Ltd),Indometacin,10010100,1
+1168941000033115,Rheumox 600mg tablets (Mercury Pharma Group Ltd),Azapropazone,,1
+1346341000033117,Slo-Indo 75mg capsules (Viatris UK Healthcare Ltd),Indometacin,10010100,1
+1346841000033114,Slofenac 75mg SR tablets (Sterwin Medicines),Diclofenac sodium,10010100,1
+1389641000033114,Surgam SA 300mg capsules (Sanofi),Tiaprofenic acid,,1
+1396041000033114,Sulindac 100mg tablets,Sulindac,10010100,1
+1396141000033113,Sulindac 200mg tablets,Sulindac,10010100,1
+1396641000033115,Surgam 300mg tablets (Sanofi),Tiaprofenic acid,10010100,1
+1398841000033115,Surgam 200mg tablets (Sanofi),Tiaprofenic acid,10010100,1
+1403341000033114,Synflex 275mg tablets (Roche Products Ltd),Naproxen sodium,,1
+1416641000033111,Tenoxicam Effervescent tablets 20 mg,,,1
+1417941000033119,Tenoxicam Granules 20 mg/sachet,,,1
+1418741000033118,Tenoxicam Injection 20 mg/amp,,,1
+1425241000033112,Tenoxicam 20mg tablets,Tenoxicam,10010100,1
+1442941000033111,Tiaprofenic acid 300mg modified-release capsules,Tiaprofenic acid,,1
+1443041000033118,Tiaprofenic Acid Sachets 300 mg,,,1
+1443741000033115,Tiaprofenic acid 300mg tablets,Tiaprofenic acid,10010100,1
+1444841000033110,Tiaprofenic acid 200mg tablets,Tiaprofenic acid,10010100,1
+1525541000033119,Voltarol 50mg dispersible tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1525641000033118,Voltarol 1.16% Emulgel (GlaxoSmithKline Consumer Healthcare UK Ltd),Diclofenac diethylammonium,10030200,1
+1525741000033110,Voltarol Ophtha 0.1% eye drops 0.3ml unit dose (Thea Pharmaceuticals Ltd),Diclofenac sodium,11080200,1
+1525941000033113,Voltarol 75mg/3ml solution for injection ampoules (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1526241000033111,Voltarol 12.5mg suppositories (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1526341000033118,Voltarol 75mg SR tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1526741000033117,Voltarol 25mg suppositories (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1526841000033110,Voltarol 50mg suppositories (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1526941000033119,Voltarol 100mg suppositories (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1527041000033118,Voltarol 25mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1527141000033119,Voltarol 50mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1527241000033114,Voltarol Retard 100mg tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac sodium,10010100,1
+1527541000033111,Volraman 25mg gastro-resistant tablets (LPC Medical (UK) Ltd),Diclofenac sodium,10010100,1
+1527641000033112,Volraman 50mg gastro-resistant tablets (LPC Medical (UK) Ltd),Diclofenac sodium,10010100,1
+1579741000033114,Brexidol 20mg tablets (Chiesi Ltd),Piroxicam betadex,,1
+1610441000033114,Flexotard MR 100mg tablets (Pfizer Ltd),Diclofenac sodium,,1
+1627241000033117,Librofem 200mg tablets (LPC Medical (UK) Ltd),Ibuprofen,10010100,1
+1656241000033116,Meloxicam 7.5mg suppositories,Meloxicam,,1
+1657041000033114,Mobic 7.5mg suppositories (Boehringer Ingelheim Ltd),Meloxicam,,1
+1666941000033115,Piroxicam betadex 20mg tablets,Piroxicam betadex,,1
+1673141000033118,Rhumalgan CR 100 tablets (Sandoz Ltd),Diclofenac sodium,10010100,1
+1673241000033113,Rhumalgan CR 75 tablets (Sandoz Ltd),Diclofenac sodium,10010100,1
+1727941000033118,Dicloflex 75mg SR tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+1730241000033112,Flamrase 75mg SR tablets (Teva UK Ltd),Diclofenac sodium,10010100,1
+1739241000033118,Ibumousse 5% (Dermal Laboratories Ltd),Ibuprofen,10030200,1
+1739341000033111,Ibuprofen 5% foam,Ibuprofen,10030200,1
+1739441000033117,Ibuprofen 100mg/5ml oral suspension sugar free,Ibuprofen,10010100,1
+1780141000033111,Ibuprofen 10% gel,Ibuprofen,10030200,1
+1780241000033116,Fenbid Forte 10% gel (Advanz Pharma),Ibuprofen,10030200,1
+1795841000033111,Dexketoprofen 25mg tablets,Dexketoprofen trometamol,10010100,1
+1795941000033115,Keral 25mg tablets (A. Menarini Farmaceutica Internazionale SRL),Dexketoprofen trometamol,10010100,1
+1803941000033119,Rofecoxib 12.5mg tablets,Rofecoxib,,1
+1804041000033117,Rofecoxib 25mg tablets,Rofecoxib,,1
+1804141000033118,Rofecoxib 12.5mg/5ml oral suspension sugar free,Rofecoxib,,1
+1804241000033113,Rofecoxib 25mg/5ml oral suspension sugar free,Rofecoxib,,1
+1804341000033115,Vioxx 12.5mg/5ml oral suspension (Organon Pharma (UK) Ltd),Rofecoxib,,1
+1804441000033114,Vioxx 25mg/5ml oral suspension (Organon Pharma (UK) Ltd),Rofecoxib,,1
+1804541000033110,Vioxx 12.5mg tablets (Organon Pharma (UK) Ltd),Rofecoxib,,1
+1804641000033111,Vioxx 25mg tablets (Organon Pharma (UK) Ltd),Rofecoxib,,1
+1845841000033118,Diclofenac sodium 50mg gastro-resistant / Misoprostol 200microgram tablets,Diclofenac sodium/ Misoprostol,10010100,1
+1845941000033114,Diclofenac sodium 75mg gastro-resistant / Misoprostol 200microgram tablets,Diclofenac sodium/ Misoprostol,10010100,1
+1848741000033117,Diclofenac potassium 25mg tablets,Diclofenac potassium,10010100,1
+1848841000033110,Diclofenac potassium 50mg tablets,Diclofenac potassium,10010100,1
+1848941000033119,Voltarol Rapid 25mg tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac potassium,10010100,1
+1849041000033111,Voltarol Rapid 50mg tablets (Novartis Pharmaceuticals UK Ltd),Diclofenac potassium,10010100,1
+1889841000033112,Flurbiprofen 8.75mg lozenges,Flurbiprofen,12030100,1
+1889941000033116,Strefen Honey and Lemon 8.75mg lozenges (Reckitt Benckiser Healthcare (UK) Ltd),Flurbiprofen,12030100,1
+1905241000033117,Diclovol 75mg SR tablets (Arun Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+1905341000033110,Diclovol Retard 100mg tablets (Arun Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+1922741000033112,Diclofenac sodium 25mg gastro-resistant tablets,Diclofenac sodium,10010100,1
+1922841000033119,Diclofenac sodium 50mg gastro-resistant tablets,Diclofenac sodium,10010100,1
+2103041000033112,Celecoxib 100mg capsules,Celecoxib,10010100,1
+2103141000033111,Celecoxib 200mg capsules,Celecoxib,10010100,1
+2103241000033116,Celebrex 100mg capsules (Viatris UK Healthcare Ltd),Celecoxib,10010100,1
+2103341000033114,Celebrex 200mg capsules (Viatris UK Healthcare Ltd),Celecoxib,10010100,1
+2104441000033118,Larafen CR 200mg capsules (Ennogen Pharma Ltd),Ketoprofen,10010100,1
+2104841000033115,Diclovol 25mg gastro-resistant tablets (Arun Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+2104941000033111,Diclovol 50mg gastro-resistant tablets (Arun Pharmaceuticals Ltd),Diclofenac sodium,10010100,1
+2110741000033116,Ibugel Forte 10% gel (Dermal Laboratories Ltd),Ibuprofen,10030200,1
+2128341000033111,Pardelprin MR 75mg capsules (Actavis UK Ltd),Indometacin,10010100,1
+2131141000033117,Cuprofen 5% gel (SSL International Plc),Ibuprofen,10030200,1
+2228341000033113,Nurofen Plus tablets (Reckitt Benckiser Healthcare (UK) Ltd),Codeine phosphate/ Ibuprofen,10010100,1
+2273241000033112,Galprofen 100mg/5ml oral suspension (Galpharm International Ltd),Ibuprofen,10010100,1
+2274341000033116,Rheumatac Retard 75 tablets (Advanz Pharma),Diclofenac sodium,10010100,1
+2295141000033114,Diclofenac Sodium Topical solution 1.5 %,,,1
+2295441000033118,Defanac 75mg SR tablets (Ranbaxy (UK) Ltd),Diclofenac sodium,10010100,1
+2295941000033111,Ebretin 300mg capsules (Ranbaxy (UK) Ltd),Etodolac,,1
+2583841000033111,Diclofenac sodium 3% gel,Diclofenac sodium,13080100,1
+2583941000033115,Solaraze 3% gel (Almirall Ltd),Diclofenac sodium,13080100,1
+2616341000033119,Nurofen Long Lasting 300mg capsules (Crookes Healthcare Ltd),Ibuprofen,,1
+2617041000033119,Feldene P 0.5% gel (Pfizer Ltd),Piroxicam,10030200,1
+2636741000033112,Rofecoxib 50mg tablets,Rofecoxib,,1
+2636841000033119,VioxxAcute 25mg tablets (Organon Pharma (UK) Ltd),Rofecoxib,,1
+2636941000033110,VioxxAcute 50mg tablets (Organon Pharma (UK) Ltd),Rofecoxib,,1
+2637841000033116,Arthrosin EC 250 tablets (Ashbourne Pharmaceuticals Ltd),Naproxen,,1
+2637941000033112,Arthrosin EC 500 tablets (Ashbourne Pharmaceuticals Ltd),Naproxen,,1
+2638441000033118,Lornoxicam 4mg tablets,Lornoxicam,,1
+2638541000033117,Lornoxicam 8mg tablets,Lornoxicam,,1
+2661841000033116,Mefenamic acid 50mg/5ml oral suspension,Mefenamic acid,10010100,1
+2716541000033115,Defanac Retard 100mg tablets (Ranbaxy (UK) Ltd),Diclofenac sodium,10010100,1
+2730241000033113,Valdic 75 Retard tablets (Fannin (UK) Ltd),Diclofenac sodium,,1
+2730341000033115,Valdic 100 Retard tablets (Fannin (UK) Ltd),Diclofenac sodium,,1
+2731041000033114,Arcoxia 60mg tablets (Organon Pharma (UK) Ltd),Etoricoxib,10010100,1
+2731141000033113,Arcoxia 90mg tablets (Organon Pharma (UK) Ltd),Etoricoxib,10010100,1
+2731241000033118,Arcoxia 120mg tablets (Organon Pharma (UK) Ltd),Etoricoxib,10010100,1
+2731341000033111,Etoricoxib 60mg tablets,Etoricoxib,10010100,1
+2731441000033117,Etoricoxib 90mg tablets,Etoricoxib,10010100,1
+2731541000033116,Etoricoxib 120mg tablets,Etoricoxib,10010100,1
+2765841000033110,Feverfen 100mg/5ml oral suspension (Wise Pharmaceuticals Ltd),Ibuprofen,,1
+2765941000033119,Ibuprofen 100mg/5ml oral suspension,Ibuprofen,10010100,1
+2769341000033115,Econac 75mg/3ml solution for injection ampoules (Mercury Pharma Group Ltd),Diclofenac sodium,,1
+2778941000033116,Volsaid Retard 75 tablets (Chiesi Ltd),Diclofenac sodium,10010100,1
+2779041000033113,Volsaid Retard 100 tablets (Chiesi Ltd),Diclofenac sodium,10010100,1
+2780441000033116,Defanac 25mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Diclofenac sodium,10010100,1
+2780541000033115,Defanac 50mg gastro-resistant tablets (Ranbaxy (UK) Ltd),Diclofenac sodium,10010100,1
+2781041000033116,Tiloket CR 100mg capsules (Tillomed Laboratories Ltd),Ketoprofen,10010100,1
+2781141000033117,Tiloket CR 200mg capsules (Tillomed Laboratories Ltd),Ketoprofen,,1
+2787541000033119,Fenactol 25mg gastro-resistant tablets (Discovery Pharmaceuticals),Diclofenac sodium,10010100,1
+2787641000033118,Fenactol 50mg gastro-resistant tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+2787741000033110,Fenactol SR 75mg tablets (Discovery Pharmaceuticals),Diclofenac sodium,10010100,1
+2787841000033117,Fenactol Retard 100mg tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+2797741000033114,Orbifen For Children 100mg/5ml oral suspension (Orbis Consumer Products Ltd),Ibuprofen,10010100,1
+2799441000033111,Berlind 75 Retard capsules (Tillomed Laboratories Ltd),Indometacin,,1
+2839441000033116,Ibuprofen 200mg orodispersible tablets sugar free,Ibuprofen,10010100,1
+2839541000033115,Nurofen Meltlets 200mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10010100,1
+2850541000033114,Nabumetone 500mg dispersible tablets sugar free,Nabumetone,10010100,1
+2850641000033110,Relifex 500mg dispersible tablets (Meda Pharmaceuticals Ltd),Nabumetone,10010100,1
+2871341000033112,Calprofen 100mg/5ml oral suspension (McNeil Products Ltd),Ibuprofen,10010100,1
+2888341000033111,Voltarol Ophtha Multidose 0.1% eye drops (Thea Pharmaceuticals Ltd),Diclofenac sodium,11080200,1
+2921341000033115,Diclofenac 0.1% eye drops 0.3ml unit dose preservative free,Diclofenac sodium,11080200,1
+2928041000033112,Econac 100mg suppositories (Advanz Pharma),Diclofenac sodium,10010100,1
+2928141000033111,Tiloket 2.5% gel (Tillomed Laboratories Ltd),Ketoprofen,,1
+2946341000033111,Eccoxolac 300mg capsules (Meda Pharmaceuticals Ltd),Etodolac,10010100,1
+2968541000033113,Hedex Ibuprofen 200mg tablets (Omega Pharma Ltd),Ibuprofen,,1
+2968641000033114,Solpaflex tablets (GlaxoSmithKline Consumer Healthcare UK Ltd),Codeine phosphate/ Ibuprofen,10010100,1
+2968941000033119,Advil 200mg tablets (Wyeth Consumer Healthcare),Ibuprofen,10010100,1
+2970541000033115,Nurofen 5% gel (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+2970641000033119,Nurofen Maximum Strength 10% gel (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10030200,1
+2970741000033111,Nurofen 200mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10010100,1
+2971241000033112,Nurofen 200mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10010100,1
+2974241000033110,Ibuleve 5% gel (Diomed Developments Ltd),Ibuprofen,10030200,1
+2980141000033116,Pennsaid 16mg/ml cutaneous solution (Movianto UK Ltd),Diclofenac sodium,10030200,1
+2980241000033111,Diclofenac 16mg/ml topical solution,Diclofenac sodium,10030200,1
+3077841000033119,Voltarol 1.16% Emulgel P (GlaxoSmithKline Consumer Healthcare UK Ltd),Diclofenac diethylammonium,10030200,1
+3077941000033110,Cuprofen PLUS tablets (SSL International Plc),Codeine phosphate/ Ibuprofen,,1
+3078341000033110,Econac SR 75mg tablets (Advanz Pharma),Diclofenac sodium,,1
+3078441000033116,Econac XL 100mg tablets (Advanz Pharma),Diclofenac sodium,,1
+3083341000033110,Benorilate 2g/5ml oral suspension sugar free,Benorilate,,1
+3083441000033116,Benorilate 750mg tablets,Benorilate,,1
+3093041000033114,Indometacin 25mg capsules,Indometacin,10010100,1
+3093141000033113,Indometacin 50mg capsules,Indometacin,10010100,1
+3093241000033118,Indometacin 100mg suppositories,Indometacin,10010100,1
+3093341000033111,Indometacin 25mg modified-release tablets,Indometacin,,1
+3093441000033117,Indometacin 50mg modified-release tablets,Indometacin,,1
+3093541000033116,Indometacin 75mg modified-release tablets,Indometacin,,1
+3093641000033115,Indometacin 25mg modified-release capsules,Indometacin,,1
+3093741000033112,Indometacin 75mg modified-release capsules,Indometacin,10010100,1
+3136641000033111,Tiloket 50mg capsules (Tillomed Laboratories Ltd),Ketoprofen,,1
+3189841000033112,Lumiracoxib 100mg tablets,Lumiracoxib,,1
+3190041000033114,Lumiracoxib 400mg tablets,Lumiracoxib,,1
+3190141000033113,Prexige 100mg tablets (Novartis Pharmaceuticals UK Ltd),Lumiracoxib,,1
+3190341000033111,Prexige 400mg tablets (Novartis Pharmaceuticals UK Ltd),Lumiracoxib,,1
+3201741000033119,Ibuleve Maximum Strength 10% gel (Diomed Developments Ltd),Ibuprofen,10030200,1
+3217541000033117,Rhumalgan SR 75mg capsules (Almus Pharmaceuticals Ltd),Diclofenac sodium,,1
+3217641000033116,Rhumalgan XL 100mg capsules (Sandoz Ltd),Diclofenac sodium,,1
+3229141000033111,Ibuprofen 300mg modified-release / Codeine 20mg tablets,Codeine phosphate/ Ibuprofen,,1
+3229541000033119,Naproxen 500mg tablets and Misoprostol 200microgram tablets,,10010100,1
+3248541000033111,Nurofen Back Pain SR 300mg capsules (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+3334141000033116,Dexibuprofen 300mg tablets,Dexibuprofen,10010100,1
+3334241000033111,Dexibuprofen 400mg tablets,Dexibuprofen,10010100,1
+3334341000033118,Seractil 300mg tablets (Gebro Pharma GmbH),Dexibuprofen,,1
+3334441000033112,Seractil 400mg tablets (Thornton & Ross Ltd),Dexibuprofen,10010100,1
+3346541000033119,Voltarol Gel Patch 1% medicated plasters (Novartis Consumer Health UK Ltd),Diclofenac epolamine,10030200,1
+3836241000033118,Flamatak MR 75mg tablets (Actavis UK Ltd),Diclofenac sodium,10010100,1
+3839241000033110,Flamatak MR 100mg tablets (Actavis UK Ltd),Diclofenac sodium,10010100,1
+3851241000033110,Diclofenac 1% transdermal patches,Diclofenac epolamine,10030200,1
+3929041000033111,Ketoprofen Gel (Pump Dispenser) 2.5 %,,,1
+4010241000033113,Etopan XL 600mg tablets (Sun Pharmaceutical Industries Europe B.V.),Etodolac,10010100,1
+4088341000033115,Ibuprofen 100mg/5ml oral suspension 5ml sachets sugar free,Ibuprofen,,1
+4088441000033114,Nurofen for Children Singles 100mg/5ml oral suspension 5ml sachets strawberry (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+4088541000033110,Nurofen for Children Singles 100mg/5ml oral suspension 5ml sachets orange (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+4123241000033119,Ibuprofen 200mg / Pseudoephedrine hydrochloride 30mg tablets,Ibuprofen/ Pseudoephedrine hydrochloride,3090200,1
+4123741000033113,Nurofen Cold and Flu tablets (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen/ Pseudoephedrine hydrochloride,3090200,1
+4158541000033113,Ibuprofen 300mg modified-release capsules,Ibuprofen,,1
+4258141000033119,Phorpain 5% gel (Advanz Pharma),Ibuprofen,,1
+4258241000033114,Phorpain Maximum Strength 10% gel (Advanz Pharma),Ibuprofen,,1
+4425141000033112,Etoricoxib 30mg tablets,Etoricoxib,10010100,1
+4425241000033117,Arcoxia 30mg tablets (Organon Pharma (UK) Ltd),Etoricoxib,10010100,1
+4432641000033114,Cuprofen 200mg tablets (SSL International Plc),Ibuprofen,10010100,1
+4447641000033110,Indometacin 25mg/5ml oral suspension sugar free,Indometacin,,1
+4451841000033119,Ibuprofen 200mg capsules,Ibuprofen,10010100,1
+4452141000033117,Indometacin 25mg/5ml oral suspension,Indometacin,,1
+4452241000033112,Naproxen 125mg/5ml oral suspension sugar free,Naproxen,,1
+4452941000033115,Diclofenac 75mg/2ml solution for injection vials,Diclofenac sodium,10010100,1
+4453041000033113,Dyloject 75mg/2ml solution for injection vials (Therabel Pharma UK Ltd),Diclofenac sodium,10010100,1
+4456341000033118,Ibuleve Speed Relief 5% gel (Diomed Developments Ltd),Ibuprofen,,1
+4456441000033112,Ibuderm 5% gel (Dermal Laboratories Ltd),Ibuprofen,,1
+4575541000033114,Voltarol Pain-eze 1.16% Emulgel (GlaxoSmithKline Consumer Healthcare UK Ltd),Diclofenac diethylammonium,,1
+4657241000033111,Diclofenac potassium 12.5mg tablets,Diclofenac potassium,,1
+4657341000033118,Voltarol Pain-eze 12.5mg tablets (Novartis Consumer Health UK Ltd),Diclofenac potassium,,1
+4661241000033110,Ibuprofen lysine 200mg tablets,Ibuprofen lysine,10010100,1
+4803141000033113,Nurofen for Children 100mg/5ml oral suspension strawberry (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10010100,1
+4803341000033111,Nurofen for Children 100mg/5ml oral suspension orange (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,10010100,1
+4899741000033111,Tenoxicam 20mg powder and solvent for solution for injection vials,Tenoxicam,,1
+4936341000033115,Diclofenac 4% cutaneous spray,Diclofenac sodium,,1
+4936441000033114,Mobigel 4% spray (Mercury Pharma Group Ltd),Diclofenac sodium,,1
+5324041000033112,Axorid 200mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),Ketoprofen/ Omeprazole,10010100,1
+5324141000033111,Axorid 100mg/20mg modified-release capsules (Meda Pharmaceuticals Ltd),Ketoprofen/ Omeprazole,10010100,1
+5324241000033116,Ketoprofen 200mg / Omeprazole 20mg modified-release capsules,Ketoprofen/ Omeprazole,10010100,1
+5324341000033114,Ketoprofen 100mg / Omeprazole 20mg modified-release capsules,Ketoprofen/ Omeprazole,10010100,1
+5376641000033111,Ibuprofen lysine 400mg tablets,Ibuprofen lysine,,1
+5376741000033119,Nurofen Maximum Strength Migraine Pain 684mg caplets (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen lysine,,1
+5707441000033119,Celecoxib 400mg capsules,Celecoxib,,1
+5809541000033110,Diclofenac 10mg dispersible tablets,Diclofenac sodium,,1
+5973641000033114,Naproxen 200mg/5ml oral suspension,Naproxen,,1
+5996241000033113,Indometacin 25mg/5ml oral solution,Indometacin,,1
+6018341000033114,Valket 200 Retard capsules (Tillomed Laboratories Ltd),Ketoprofen,10010100,1
+6037241000033112,Naproxen 500mg / Esomeprazole 20mg modified-release tablets,Esomeprazole magnesium trihydrate/ Naproxen,10010100,1
+6037341000033119,Vimovo 500mg/20mg modified-release tablets (Grunenthal Ltd),Esomeprazole magnesium trihydrate/ Naproxen,10010100,1
+6168541000033111,Ibuprofen 5% / Levomenthol 3% gel,Ibuprofen/ Levomenthol,10030200,1
+6386741000033110,Paracetamol 500mg / Ibuprofen 200mg tablets,Ibuprofen/ Paracetamol,,1
+6386841000033117,Nuromol 200mg/500mg tablets (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen/ Paracetamol,,1
+6430441000033118,Voltarol Pain-eze Extra Strength 25mg tablets (Novartis Consumer Health UK Ltd),Diclofenac potassium,,1
+6515641000033110,Voltarol Active 4% spray (Novartis Consumer Health UK Ltd),Diclofenac sodium,,1
+8113641000033110,Enstar XL 100 tablets (Ennogen Pharma Ltd),Diclofenac sodium,,1
+8494241000033114,Misofen 50mg/200microgram gastro-resistant tablets (Morningside Healthcare Ltd),Diclofenac sodium/ Misoprostol,10010100,1
+8617741000033110,Meloxicam 7.5mg orodispersible tablets sugar free,Meloxicam,,1
+8617841000033117,Meloxicam 15mg orodispersible tablets sugar free,Meloxicam,,1
+9173341000033112,Diclofenac diethylammonium 2.32% gel,Diclofenac diethylammonium,,1
+9173441000033118,Voltarol 12 Hour Emulgel P 2.32% gel (GlaxoSmithKline Consumer Healthcare UK Ltd),Diclofenac diethylammonium,,1
+9995841000033113,Dicloflex Retard 100mg tablets (Dexcel-Pharma Ltd),Diclofenac sodium,10010100,1
+10332641000033116,Masidemen 50mg/200microgram gastro-resistant tablets (Actavis UK Ltd),Diclofenac sodium/ Misoprostol,,1
+10494141000033115,Diclofenac 50mg/5ml oral solution,Diclofenac sodium,,1
+10643541000033117,Ibuprofen 200mg modified-release capsules,Ibuprofen,10010100,1
+10976541000033110,Naproxen 250mg effervescent tablets sugar free,Naproxen,,1
+10976641000033111,Stirlescent 250mg effervescent tablets (Stirling Anglian Pharmaceuticals Ltd),Naproxen,,1
+11023041000033110,Diclofenac 140mg medicated plasters,Diclofenac sodium,,1
+11023141000033114,Voltarol 140mg medicated plasters (GlaxoSmithKline Consumer Healthcare UK Ltd),Diclofenac sodium,,1
+11781141000033115,Etolyn 600mg modified-release tablets (Viatris UK Healthcare Ltd),Etodolac,,1
+11781541000033112,Paracetamol 500mg / Ibuprofen 150mg tablets,Ibuprofen/ Paracetamol,,1
+11781641000033113,Combogesic 500mg/150mg tablets (Thornton & Ross Ltd),Ibuprofen/ Paracetamol,,1
+11790641000033116,Ibuprofen 400mg capsules,Ibuprofen,,1
+11790741000033113,Nurofen Express 400mg liquid capsules (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+11825641000033116,Diclofenac 0.074% mouthwash sugar free,Diclofenac,,1
+11898941000033112,Naproxen 250mg/5ml oral suspension,Naproxen,,1
+12361741000033115,Diclofenac 50mg/5ml oral suspension,Diclofenac sodium,,1
+12471541000033111,Tramadol 75mg / Dexketoprofen 25mg tablets,Dexketoprofen/ Tramadol hydrochloride,,1
+12496141000033117,Ibuprofen 200mg / Phenylephrine 6.1mg tablets,Ibuprofen/ Phenylephrine,,1
+12602741000033115,Diclofenac 75mg/1ml solution for injection ampoules,Diclofenac sodium,,1
+12634141000033118,Flector Tissugel 140mg medicated plasters (Disposable Medical Equipment Ltd),Diclofenac sodium,,1
+12708841000033116,Ibuprofen 200mg / Codeine 12.8mg tablets,Codeine phosphate/ Ibuprofen,10010100,1
+13057641000033116,Flarin 200mg capsules (infirst Ltd),Ibuprofen,,1
+13059141000033119,Ibuprofen 200mg medicated plasters,Ibuprofen,,1
+13158041000033116,Solacutan 3% gel (Mibe Pharma UK Ltd),Diclofenac sodium,,1
+13177941000033116,Ibuprofen 200mg/5ml oral suspension sugar free,Ibuprofen,,1
+13469741000033119,Diclo-SR 75mg tablets (Strides Pharma UK Ltd),Diclofenac sodium,,1
+13579141000033115,Nurofen for Children 200mg/5ml oral suspension orange (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+13579241000033110,Nurofen for Children 200mg/5ml oral suspension strawberry (Reckitt Benckiser Healthcare (UK) Ltd),Ibuprofen,,1
+13581741000033114,Diclofenac sodium 1% gel,Diclofenac sodium,,1
+13806041000033117,Ibuprofen 100mg chewable capsules,Ibuprofen,,1

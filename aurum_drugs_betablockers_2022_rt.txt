@@ -1,0 +1,277 @@
+prodcodeid,termfromemis,drugsubstancename,bnfchapter,bblockers
+3041000033115,Acebutolol 100mg capsules,Acebutolol hydrochloride,2040000,1
+3141000033116,Acebutolol 200mg capsules,Acebutolol hydrochloride,2040000,1
+6041000033113,Acebutolol Injection 5 mg/1 ml,,,1
+10741000033112,Acebutolol 400mg tablets,Acebutolol hydrochloride,2040000,1
+69441000033112,Antipressan 25mg tablets (Teva UK Ltd),Atenolol,,1
+70941000033117,Antipressan 100mg tablets (Teva UK Ltd),Atenolol,,1
+71041000033110,Antipressan 50mg tablets (Teva UK Ltd),Atenolol,,1
+89541000033111,Atenolol 5mg/10ml solution for injection ampoules,Atenolol,2100100,1
+90441000033118,Atenolol 25mg/5ml oral solution sugar free,Atenolol,2100100,1
+90541000033117,Atenix 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,2040000,1
+90641000033116,Atenolol 25mg tablets,Atenolol,2100100,1
+90741000033113,Atenix Co 100 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/ Chlortalidone,2040000,1
+91041000033118,Atenolol 100mg tablets,Atenolol,2100100,1
+91141000033119,Atenolol 50mg tablets,Atenolol,2100100,1
+91841000033113,Atenix 25 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,2040000,1
+92441000033119,Atenix Co 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol/ Chlortalidone,2040000,1
+92541000033118,Atenix 50 tablets (Ashbourne Pharmaceuticals Ltd),Atenolol,2040000,1
+124241000033112,Bedranol SR 160mg capsules (Sandoz Ltd),Propranolol hydrochloride,2040000,1
+124341000033119,Beta-Adalat modified-release capsules (Bayer Plc),Atenolol/ Nifedipine,2040000,1
+131141000033116,Betaloc I.V. 5mg/5ml solution for injection ampoules (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,2040000,1
+133141000033117,Beta-Prograne 160mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,2040000,1
+143941000033116,Beta-Cardone 200mg tablets (Advanz Pharma),Sotalol hydrochloride,2040000,1
+144041000033119,Beta-Cardone 40mg tablets (Focus Pharmaceuticals Ltd),Sotalol hydrochloride,2040000,1
+144141000033115,Beta-Cardone 80mg tablets (Focus Pharmaceuticals Ltd),Sotalol hydrochloride,2040000,1
+144341000033117,Betaloc 100mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,,1
+144441000033111,Betaloc 50mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,,1
+144541000033112,Betaloc-SA 200mg tablets (AstraZeneca UK Ltd),Metoprolol tartrate,,1
+144741000033116,Betim 10mg tablets (Meda Pharmaceuticals Ltd),Timolol maleate,,1
+151341000033117,Bisoprolol 5mg tablets,Bisoprolol fumarate,2040000,1
+151441000033111,Bisoprolol Fumarate Tablets 10 mg,,,1
+209941000033111,Carvedilol 12.5mg tablets,Carvedilol,2040000,1
+210041000033115,Carvedilol 25mg tablets,Carvedilol,2040000,1
+210141000033116,Carvedilol Tablets 50 mg,,,1
+233241000033114,Celectol 400mg tablets (Neon Healthcare Ltd),Celiprolol hydrochloride,2040000,1
+233341000033116,Celiprolol 400mg tablets,Celiprolol hydrochloride,2040000,1
+236041000033111,Celiprolol 200mg tablets,Celiprolol hydrochloride,2040000,1
+236141000033110,Celectol 200mg tablets (Neon Healthcare Ltd),Celiprolol hydrochloride,2040000,1
+372741000033116,Co-Betaloc tablets (Pfizer Ltd),Hydrochlorothiazide/ Metoprolol tartrate,,1
+372841000033114,Co-Betaloc SA tablets (Pfizer Ltd),Hydrochlorothiazide/ Metoprolol tartrate,,1
+375241000033119,Corgard 40mg tablets (Sanofi-Synthelabo Ltd),Nadolol,,1
+375341000033112,Corgard 80mg tablets (Neon Healthcare Ltd),Nadolol,2040000,1
+375441000033118,Corgaretic 40mg tablets (Sanofi-Synthelabo Ltd),Bendroflumethiazide/ Nadolol,,1
+375541000033117,Corgaretic 80mg tablets (Sanofi-Synthelabo Ltd),Bendroflumethiazide/ Nadolol,,1
+376441000033110,Co-tenidone 50mg/12.5mg tablets,Atenolol/ Chlortalidone,2040000,1
+376541000033111,Co-tenidone 100mg/25mg tablets,Atenolol/ Chlortalidone,2040000,1
+377341000033119,Co-prenozide 160mg/0.25mg modified-release tablets,Cyclopenthiazide/ Oxprenolol hydrochloride,,1
+395041000033117,Cyclopenthiazide 500microgram tablets,Cyclopenthiazide,2020100,1
+513941000033117,Emcor LS 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+514141000033116,Emcor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,,1
+514741000033117,Bisoprolol 10mg tablets,Bisoprolol fumarate,2040000,1
+556941000033118,Eucardic 12.5mg tablets (Roche Products Ltd),Carvedilol,,1
+557041000033117,Eucardic 25mg tablets (Roche Products Ltd),Carvedilol,,1
+637241000033119,Glau-Opt 0.25% eye drops (Opus Pharmaceuticals Ltd),Timolol maleate,11060000,1
+637341000033112,Glau-Opt 0.5% eye drops (Opus Pharmaceuticals Ltd),Timolol maleate,11060000,1
+658241000033117,Half Inderal LA 80mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+660741000033115,Half Beta-Prograne 80mg modified-release capsules (Tillomed Laboratories Ltd),Propranolol hydrochloride,2040000,1
+742841000033114,Hygroton 50mg tablets (Alliance Pharmaceuticals Ltd),Chlortalidone,2020100,1
+756541000033113,Inderal LA 160mg capsules (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+756641000033114,Inderetic 80mg/2.5mg capsules (AstraZeneca UK Ltd),Bendroflumethiazide/ Propranolol hydrochloride,,1
+756741000033117,Inderex 160mg/5mg modified-release capsules (AstraZeneca UK Ltd),Bendroflumethiazide/ Propranolol hydrochloride,,1
+759641000033116,Inderal 1mg/1ml solution for injection ampoules (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+768741000033110,Inderal 10mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+768841000033117,Inderal 40mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+768941000033113,Inderal 80mg tablets (AstraZeneca UK Ltd),Propranolol hydrochloride,,1
+793741000033117,Kalten capsules (M & A Pharmachem Ltd),Amiloride hydrochloride/ Atenolol/ Hydrochlorothiazide,2040000,1
+796541000033115,Kalspare tablets (DHP Healthcare Ltd),Chlortalidone/ Triamterene,2020400,1
+811341000033119,Labetalol 100mg/20ml solution for injection ampoules,Labetalol hydrochloride,2040000,1
+814041000033119,Labetalol 100mg tablets,Labetalol hydrochloride,2040000,1
+818641000033117,Labetalol 200mg tablets,Labetalol hydrochloride,2040000,1
+818741000033114,Labetalol 400mg tablets,Labetalol hydrochloride,2040000,1
+818841000033116,Labetalol 50mg tablets,Labetalol hydrochloride,2040000,1
+850841000033110,Lopresor 100mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,2040000,1
+850941000033119,Lopresor 50mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,2040000,1
+851041000033112,Lopresor SR 200mg tablets (Recordati Pharmaceuticals Ltd),Metoprolol tartrate,2040000,1
+887141000033113,Metoprolol 5mg/5ml solution for injection ampoules,Metoprolol tartrate,2040000,1
+890741000033112,Metoprolol Fumarate S/r tablets 95 mg,,,1
+891641000033111,Metoprolol 200mg modified-release tablets,Metoprolol tartrate,2040000,1
+897741000033111,Metoprolol 100mg tablets,Metoprolol tartrate,2040000,1
+897841000033118,Metoprolol 50mg tablets,Metoprolol tartrate,2040000,1
+903641000033115,Metoprolol Tartrate Tablets 200 mg,,,1
+935341000033118,Moducren tablets (Organon Pharma (UK) Ltd),Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate,,1
+937341000033111,Monozide 10 tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate/ Hydrochlorothiazide,,1
+939141000033118,Monocor 5mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,,1
+939241000033113,Monocor 10mg tablets (Wyeth Pharmaceuticals),Bisoprolol fumarate,,1
+955441000033111,Navidrex 500microgram tablets (Advanz Pharma),Cyclopenthiazide,2020100,1
+956341000033113,Nadolol 40mg tablets,Nadolol,,1
+956541000033118,Nadolol 80mg tablets,Nadolol,2040000,1
+956741000033114,Navispare 2.5mg/250microgram tablets (Advanz Pharma),Amiloride hydrochloride/ Cyclopenthiazide,2020400,1
+1026041000033118,Oxprenolol 160mg modified-release tablets,Oxprenolol hydrochloride,2040000,1
+1026141000033119,Oxprenolol 20mg tablets,Oxprenolol hydrochloride,2040000,1
+1026241000033114,Oxprenolol 40mg tablets,Oxprenolol hydrochloride,2040000,1
+1026341000033116,Oxprenolol 80mg tablets,Oxprenolol hydrochloride,2040000,1
+1027241000033112,Oxprenolol Hydrochloride Tablets 160 mg,,,1
+1091141000033117,Pindolol 15mg tablets,Pindolol,2040000,1
+1091241000033112,Pindolol 5mg tablets,Pindolol,2040000,1
+1111441000033118,Propranolol Hydrochloride Capsules 160 mg,,,1
+1112341000033115,Propranolol Hydrochloride Capsules 80 mg,,,1
+1119641000033117,Propranolol 1mg/1ml solution for injection ampoules,Propranolol hydrochloride,2040000,1
+1124041000033116,Propranolol 160mg modified-release capsules,Propranolol hydrochloride,2040000,1
+1125341000033118,Propranolol 10mg/5ml oral solution sugar free,Propranolol hydrochloride,2040000,1
+1125441000033112,Propranolol 5mg/5ml oral solution sugar free,Propranolol hydrochloride,2040000,1
+1125541000033113,Propranolol 50mg/5ml oral solution sugar free,Propranolol hydrochloride,2040000,1
+1128041000033113,Propranolol Hydrochloride M/R tablets 160 mg,,,1
+1130041000033112,Propranolol 80mg modified-release capsules,Propranolol hydrochloride,2040000,1
+1132741000033111,Prestim tablets (Meda Pharmaceuticals Ltd),Bendroflumethiazide/ Timolol maleate,2040000,1
+1135041000033117,Propranolol 10mg tablets,Propranolol hydrochloride,2040000,1
+1135141000033118,Propranolol 160mg tablets,Propranolol hydrochloride,2040000,1
+1135241000033113,Propranolol 40mg tablets,Propranolol hydrochloride,2040000,1
+1135341000033115,Propranolol 80mg tablets,Propranolol hydrochloride,2040000,1
+1268141000033119,Sectral 100mg capsules (Neon Healthcare Ltd),Acebutolol hydrochloride,2040000,1
+1268241000033114,Sectral 200mg capsules (Neon Healthcare Ltd),Acebutolol hydrochloride,2040000,1
+1274641000033111,Secadrex 200mg/12.5mg tablets (Sanofi),Acebutolol hydrochloride/ Hydrochlorothiazide,,1
+1278241000033118,Sectral 400mg tablets (Neon Healthcare Ltd),Acebutolol hydrochloride,2040000,1
+1347441000033114,Slow-Trasicor 160mg tablets (Advanz Pharma),Oxprenolol hydrochloride,2040000,1
+1358541000033113,Sotacor 40mg/4ml solution for injection ampoules (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol hydrochloride,2040000,1
+1358641000033114,Sotalol Hydrochloride Injection 10 mg/ml,,,1
+1366041000033112,Sotacor 160mg tablets (Bristol-Myers Squibb Pharmaceuticals Ltd),Sotalol hydrochloride,2040000,1
+1366141000033111,Sotacor 80mg tablets (Neon Healthcare Ltd),Sotalol hydrochloride,2040000,1
+1367141000033113,Sotalol 160mg tablets,Sotalol hydrochloride,2040000,1
+1367241000033118,Sotalol 200mg tablets,Sotalol hydrochloride,2040000,1
+1367441000033117,Sotalol 40mg tablets,Sotalol hydrochloride,2040000,1
+1367541000033116,Sotalol 80mg tablets,Sotalol hydrochloride,2040000,1
+1414241000033117,Tenben 25mg/1.25mg capsules (Galen Ltd),Atenolol/ Bendroflumethiazide,,1
+1414941000033114,Tenif 50mg/20mg modified-release capsules (AstraZeneca UK Ltd),Atenolol/ Nifedipine,2040000,1
+1420741000033114,Tenormin 5mg/10ml solution for injection ampoules (AstraZeneca UK Ltd),Atenolol,2040000,1
+1424541000033110,Tenormin 25mg/5ml syrup (AstraZeneca UK Ltd),Atenolol,2040000,1
+1425441000033113,Tenchlor 50mg/12.5mg tablets (Teva UK Ltd),Atenolol/ Chlortalidone,,1
+1425541000033114,Tenchlor 100mg/25mg tablets (Teva UK Ltd),Atenolol/ Chlortalidone,,1
+1426241000033117,Tenoret 50mg/12.5mg tablets (AstraZeneca UK Ltd),Atenolol/ Chlortalidone,2040000,1
+1426341000033110,Tenoretic 100mg/25mg tablets (AstraZeneca UK Ltd),Atenolol/ Chlortalidone,2040000,1
+1426441000033116,Tenormin 100mg tablets (AstraZeneca UK Ltd),Atenolol,2040000,1
+1426541000033115,Tenormin LS 50mg tablets (AstraZeneca UK Ltd),Atenolol,2040000,1
+1428741000033112,Tenormin 25mg tablets (AstraZeneca UK Ltd),Atenolol,2040000,1
+1438341000033113,Timoptol Unit Dose 0.25% ophthalmic solution 0.2ml unit dose (Santen UK Ltd),Timolol maleate,11060000,1
+1438441000033119,Timoptol Unit Dose 0.5% ophthalmic solution 0.2ml unit dose (Santen UK Ltd),Timolol maleate,11060000,1
+1438541000033118,Timolol 0.25% eye drops 0.2ml unit dose preservative free,Timolol maleate,11060000,1
+1438641000033117,Timolol 0.5% eye drops 0.2ml unit dose preservative free,Timolol maleate,11060000,1
+1438741000033114,Timolol 0.25% eye drops,Timolol maleate,11060000,1
+1438841000033116,Timolol 0.5% eye drops,Timolol maleate,11060000,1
+1438941000033112,Timoptol 0.25% eye drops (Santen UK Ltd),Timolol maleate,11060000,1
+1439041000033115,Timoptol 0.5% eye drops (Santen UK Ltd),Timolol maleate,11060000,1
+1439141000033116,Timoptol-LA 0.25% ophthalmic gel-forming solution (Santen UK Ltd),Timolol maleate,11060000,1
+1439241000033111,Timoptol-LA 0.5% ophthalmic gel-forming solution (Santen UK Ltd),Timolol maleate,11060000,1
+1439341000033118,Timolol 0.25% eye gel,Timolol maleate,11060000,1
+1439441000033112,Timolol 0.5% eye gel,Timolol maleate,11060000,1
+1444541000033113,Timolol 10mg tablets,Timolol maleate,2040000,1
+1461441000033115,Trandate 100mg/20ml solution for injection ampoules (Focus Pharmaceuticals Ltd),Labetalol hydrochloride,,1
+1469041000033113,Trandate 100mg tablets (RPH Pharmaceuticals AB),Labetalol hydrochloride,2040000,1
+1469141000033112,Trandate 200mg tablets (RPH Pharmaceuticals AB),Labetalol hydrochloride,2040000,1
+1469241000033117,Trandate 400mg tablets (RPH Pharmaceuticals AB),Labetalol hydrochloride,2040000,1
+1469341000033110,Trandate 50mg tablets (RPH Pharmaceuticals AB),Labetalol hydrochloride,2040000,1
+1469641000033119,Trasicor 20mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,,1
+1469741000033111,Trasicor 40mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,,1
+1469841000033118,Trasicor 80mg tablets (Amdipharm Plc),Oxprenolol hydrochloride,,1
+1469941000033114,Trasidrex modified-release tablets (Mercury Pharma Group Ltd),Cyclopenthiazide/ Oxprenolol hydrochloride,,1
+1523941000033114,Viskaldix tablets (Advanz Pharma),Clopamide/ Pindolol,2040000,1
+1524041000033111,Visken 5mg tablets (Advanz Pharma),Pindolol,2040000,1
+1525141000033111,Visken 15mg tablets (Advanz Pharma),Pindolol,2040000,1
+1581241000033110,Carvedilol 3.125mg tablets,Carvedilol,2040000,1
+1581341000033117,Carvedilol 6.25mg tablets,Carvedilol,2040000,1
+1588841000033119,Cosopt 20mg/ml / 5mg/ml eye drops (Santen UK Ltd),Dorzolamide hydrochloride/ Timolol maleate,11060000,1
+1608941000033115,Eucardic 3.125mg tablets (Roche Products Ltd),Carvedilol,,1
+1609041000033112,Eucardic 6.25mg tablets (Roche Products Ltd),Carvedilol,,1
+1750241000033113,Propranolol 40mg/5ml oral solution,Propranolol hydrochloride,,1
+1796041000033113,Nebivolol 5mg tablets,Nebivolol hydrochloride,2040000,1
+1796141000033112,Nebilet 5mg tablets (A. Menarini Farmaceutica Internazionale SRL),Nebivolol hydrochloride,2040000,1
+1903541000033116,Amiloride 2.5mg / Cyclopenthiazide 250microgram tablets,Amiloride hydrochloride/ Cyclopenthiazide,2020400,1
+1951641000033111,Bisoprolol 1.25mg tablets,Bisoprolol fumarate,2040000,1
+1951741000033119,Bisoprolol 2.5mg tablets,Bisoprolol fumarate,2040000,1
+1951841000033112,Bisoprolol 3.75mg tablets,Bisoprolol fumarate,2040000,1
+1951941000033116,Bisoprolol 7.5mg tablets,Bisoprolol fumarate,2040000,1
+1952241000033119,Cardicor 1.25mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+1952341000033112,Cardicor 2.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+1952441000033118,Cardicor 3.75mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+1952541000033117,Cardicor 5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+1952641000033116,Cardicor 7.5mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+1952741000033113,Cardicor 10mg tablets (Merck Serono Ltd),Bisoprolol fumarate,2040000,1
+2267441000033110,Syprol 5mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,2040000,1
+2267541000033111,Syprol 10mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,2040000,1
+2267641000033112,Syprol 50mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,2040000,1
+2616041000033116,Metoprolol 12.5mg/5ml oral solution,Metoprolol tartrate,,1
+2638041000033110,Bipranix 5mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,2040000,1
+2638141000033114,Bipranix 10mg tablets (Ashbourne Pharmaceuticals Ltd),Bisoprolol fumarate,2040000,1
+2653541000033113,Xalacom eye drops (Viatris UK Healthcare Ltd),Latanoprost/ Timolol maleate,11060000,1
+2711841000033114,Bedranol SR 80mg capsules (Sandoz Ltd),Propranolol hydrochloride,2040000,1
+2717241000033119,Timolol 0.1% gel eye drops,Timolol maleate,,1
+2717341000033112,Nyogel 0.1% eye gel (Alcon Eye Care UK Ltd),Timolol maleate,,1
+2802041000033113,Soloc 10mg tablets (Mercury Pharma Group Ltd),Bisoprolol fumarate,2040000,1
+2839841000033118,Rapranol SR 160mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,,1
+2839941000033114,Rapranol SR 80mg capsules (Ranbaxy (UK) Ltd),Propranolol hydrochloride,,1
+2866041000033110,Vivacor 5mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,2040000,1
+2866141000033114,Vivacor 10mg tablets (Lexon (UK) Ltd),Bisoprolol fumarate,2040000,1
+2908541000033114,Sotalol 40mg/4ml solution for injection ampoules,Sotalol hydrochloride,2040000,1
+2929141000033117,Slo-Pro 160mg capsules (Viatris UK Healthcare Ltd),Propranolol hydrochloride,2040000,1
+3013941000033111,Dorzolamide 20mg/ml / Timolol 5mg/ml eye drops,Dorzolamide hydrochloride/ Timolol maleate,11060000,1
+3086241000033111,Chlortalidone 50mg tablets,Chlortalidone,2020100,1
+3161341000033118,Metoprolol 100mg / Hydrochlorothiazide 12.5mg tablets,Hydrochlorothiazide/ Metoprolol tartrate,,1
+3162341000033110,Triamterene 50mg / Chlortalidone 50mg tablets,Chlortalidone/ Triamterene,2020400,1
+3162941000033114,Acebutolol 200mg / Hydrochlorothiazide 12.5mg tablets,Acebutolol hydrochloride/ Hydrochlorothiazide,,1
+3163141000033117,Pindolol 10mg / Clopamide 5mg tablets,Clopamide/ Pindolol,2040000,1
+3230441000033114,Latanoprost 50micrograms/ml / Timolol 5mg/ml eye drops,Latanoprost/ Timolol maleate,11060000,1
+3246941000033118,Atenolol 50mg / Nifedipine 20mg modified-release capsules,Atenolol/ Nifedipine,2040000,1
+3280041000033113,Brimonidine 2mg/ml / Timolol 5mg/ml eye drops,Brimonidine tartrate/ Timolol maleate,11060000,1
+3280141000033112,Combigan eye drops (Allergan Ltd),Brimonidine tartrate/ Timolol maleate,11060000,1
+3346641000033118,Timolol 10mg / Bendroflumethiazide 2.5mg tablets,Bendroflumethiazide/ Timolol maleate,2040000,1
+3923341000033111,Travoprost 40micrograms/ml / Timolol 5mg/ml eye drops,Timolol maleate/ Travoprost,11060000,1
+3923441000033117,DuoTrav 40micrograms/ml / 5mg/ml eye drops (Novartis Pharmaceuticals UK Ltd),Timolol maleate/ Travoprost,11060000,1
+3934641000033116,Bimatoprost 300micrograms/ml / Timolol 5mg/ml eye drops,Bimatoprost/ Timolol maleate,11060000,1
+3934741000033113,Ganfort 0.3mg/ml / 5mg/ml eye drops (Allergan Ltd),Bimatoprost/ Timolol maleate,11060000,1
+3953441000033116,Sotalol 25mg/5ml oral solution,Sotalol hydrochloride,,1
+3984541000033111,Congescor 1.25mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,,1
+3984641000033112,Congescor 2.5mg tablets (Tillomed Laboratories Ltd),Bisoprolol fumarate,,1
+3995441000033113,Dorzolamide 20mg/ml / Timolol 5mg/ml eye drops 0.2ml unit dose preservative free,Dorzolamide hydrochloride/ Timolol maleate,,1
+3995541000033114,Cosopt 20mg/ml / 5mg/ml eye drops 0.2ml unit dose preservative free (Santen UK Ltd),Dorzolamide hydrochloride/ Timolol maleate,,1
+4267141000033111,Bisoprolol 7.5mg/5ml oral suspension,Bisoprolol fumarate,,1
+4507941000033117,Bisoprolol 2.5mg/5ml oral suspension,Bisoprolol fumarate,,1
+4815641000033117,Metoprolol 12.5mg/5ml oral suspension,Metoprolol tartrate,,1
+4955841000033115,Propranolol 40mg/5ml oral solution sugar free,Propranolol hydrochloride,,1
+4955941000033111,Syprol 40mg/5ml oral solution (Rosemont Pharmaceuticals Ltd),Propranolol hydrochloride,,1
+4957141000033117,Propranolol 80mg/5ml oral solution,Propranolol hydrochloride,,1
+5075741000033113,Brinzolamide 10mg/ml / Timolol 5mg/ml eye drops,Brinzolamide/ Timolol maleate,11060000,1
+5075841000033115,Azarga 10mg/ml / 5mg/ml eye drops (Novartis Pharmaceuticals UK Ltd),Brinzolamide/ Timolol maleate,11060000,1
+5288741000033116,Carvedilol 5mg/5ml oral suspension,Carvedilol,,1
+5376441000033114,Timolol 10mg / Amiloride 2.5mg / Hydrochlorothiazide 25mg tablets (Essential Generics Ltd),Amiloride hydrochloride/ Hydrochlorothiazide/ Timolol maleate,,1
+5378241000033112,Nadolol 40mg/5ml oral suspension,Nadolol,,1
+5565341000033115,Nebivolol 2.5mg tablets,Nebivolol hydrochloride,,1
+5575541000033119,Metoprolol 25mg/5ml oral solution,Metoprolol tartrate,,1
+5655241000033110,Brevibloc Premixed 100mg/10ml solution for injection vials (Baxter Healthcare Ltd),Esmolol hydrochloride,2040000,1
+5814141000033119,Nadolol 20mg/5ml oral solution,Nadolol,,1
+5898041000033111,Bisoprolol 1.25mg/5ml oral solution,Bisoprolol fumarate,,1
+5898141000033110,Bisoprolol 1.25mg/5ml oral suspension,Bisoprolol fumarate,,1
+5898241000033115,Bisoprolol 5mg/5ml oral solution,Bisoprolol fumarate,,1
+5898341000033113,Bisoprolol 5mg/5ml oral suspension,Bisoprolol fumarate,,1
+5898441000033119,Bisoprolol 625micrograms/5ml oral solution,Bisoprolol fumarate,,1
+5898541000033118,Bisoprolol 625micrograms/5ml oral suspension,Bisoprolol fumarate,,1
+5972841000033117,Metoprolol 50mg/5ml oral solution,Metoprolol tartrate,,1
+5972941000033113,Metoprolol 50mg/5ml oral suspension,Metoprolol tartrate,,1
+5991041000033111,Bisoprolol 2.5mg/5ml oral solution,Bisoprolol fumarate,,1
+5998141000033117,Propranolol 40mg/5ml oral suspension,Propranolol hydrochloride,,1
+6469941000033111,Timolol 1mg/g gel eye drops 0.4g unit dose preservative free,Timolol maleate,11060000,1
+6470041000033112,Tiopex 1mg/g eye gel 0.4g unit dose (Thea Pharmaceuticals Ltd),Timolol maleate,11060000,1
+6487941000033119,Labetalol 50mg/5ml oral solution,Labetalol hydrochloride,,1
+7871341000033114,Nadolol 30mg/5ml oral solution,Nadolol,,1
+8047041000033112,Timolol 2.5mg/ml eye drops preservative free,Timolol maleate,,1
+8198641000033117,Tidomat 20mg/ml / 5mg/ml eye drops (Beacon Pharmaceuticals Ltd),Dorzolamide hydrochloride/ Timolol maleate,,1
+8536441000033115,Bisoprolol 10mg/5ml oral suspension,Bisoprolol fumarate,,1
+8786541000033114,Bimatoprost 300micrograms/ml / Timolol 5mg/ml eye drops 0.4ml unit dose preservative free,Bimatoprost/ Timolol maleate,11060000,1
+8786641000033110,Ganfort 0.3mg/ml / 5mg/ml eye drops 0.4ml unit dose (Allergan Ltd),Bimatoprost/ Timolol maleate,11060000,1
+8961141000033117,Nebivolol 10mg tablets,Nebivolol hydrochloride,,1
+9776441000033119,Sotalol 25mg/5ml oral suspension,Sotalol hydrochloride,,1
+10024941000033116,Bisoprolol 5mg / Aspirin 75mg capsules,Aspirin/ Bisoprolol fumarate,,1
+10025041000033116,Bisoprolol 5mg / Aspirin 100mg capsules,Aspirin/ Bisoprolol fumarate,,1
+10025241000033112,Bisoprolol 10mg / Aspirin 100mg capsules,Aspirin/ Bisoprolol fumarate,,1
+10495641000033112,Tafluprost 15micrograms/ml / Timolol 5mg/ml eye drops 0.3ml unit dose preservative free,Tafluprost/ Timolol maleate,11060000,1
+10495741000033115,Taptiqom 15micrograms/ml / 5mg/ml eye drops 0.3ml unit dose (Santen UK Ltd),Tafluprost/ Timolol maleate,11060000,1
+10650041000033116,Nadolol 20mg/5ml oral suspension,Nadolol,,1
+10650141000033117,Nadolol 30mg/5ml oral suspension,Nadolol,,1
+12204741000033114,Dorzolamide 20mg/ml / Timolol 5mg/ml eye drops preservative free,Dorzolamide hydrochloride/ Timolol maleate,,1
+12205041000033112,Eylamdo 20mg/ml / 5mg/ml eye drops (Aspire Pharma Ltd),Dorzolamide hydrochloride/ Timolol maleate,,1
+12207441000033110,Timolol 5mg/ml eye drops preservative free,Timolol maleate,,1
+12207741000033115,Eysano 2.5mg/ml eye drops (Aspire Pharma Ltd),Timolol maleate,,1
+12207841000033113,Eysano 5mg/ml eye drops (Aspire Pharma Ltd),Timolol maleate,,1
+12682341000033117,Bedranol 10mg tablets (Ennogen Pharma Ltd),Propranolol hydrochloride,,1
+12682441000033111,Bedranol 40mg tablets (Ennogen Pharma Ltd),Propranolol hydrochloride,,1
+12682641000033113,Bedranol 80mg tablets (Ennogen Pharma Ltd),Propranolol hydrochloride,,1
+12682741000033116,Bedranol 160mg tablets (Ennogen Pharma Ltd),Propranolol hydrochloride,,1
+12880841000033115,Cosopt iMulti 20mg/ml / 5mg/ml eye drops preservative free (Santen UK Ltd),Dorzolamide hydrochloride/ Timolol maleate,,1
+12887841000033119,Latanoprost 50micrograms/ml / Timolol 5mg/ml eye drops 0.2ml unit dose preservative free,Latanoprost/ Timolol maleate,,1
+12887941000033110,Fixapost 50micrograms/ml / 5mg/ml eye drops 0.2ml unit dose (Thea Pharmaceuticals Ltd),Latanoprost/ Timolol maleate,,1
+13497341000033113,Bimatoprost 300micrograms/ml / Timolol 5mg/ml eye drops preservative free,Bimatoprost/ Timolol maleate,,1
+13497441000033119,Eyzeetan 0.3mg/ml / 5mg/ml eye drops preservative free (Aspire Pharma Ltd),Bimatoprost/ Timolol maleate,,1
+13577541000033118,Nebivolol 1.25mg tablets,Nebivolol hydrochloride,,1
+13785441000033116,Vizidor Duo 20mg/ml / 5mg/ml eye drops (Bausch & Lomb UK Ltd),Dorzolamide hydrochloride/ Timolol maleate,,1
+13812841000033111,Chlortalidone 12.5mg tablets,Chlortalidone,,1
+13813041000033113,Hylaton 50mg tablets (Morningside Healthcare Ltd),Chlortalidone,,1
+13910541000033116,Metoprolol 25mg tablets,Metoprolol tartrate,,1
